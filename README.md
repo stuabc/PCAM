@@ -1,5 +1,6 @@
-*Unveiling the Uncertainty in Embodied and Operational Carbon of Large Language Models through a Probabilistic Carbon Accounting Model
-**Table: The carbon dataset we developed for the PCAM model.**
+*Unveiling the Uncertainty in Embodied and Operational Carbon of Large Language Models through a Probabilistic Carbon Accounting Model*
+
+
 
 ### Data Sources for the Carbon Emissions of Electricity Energy
 
