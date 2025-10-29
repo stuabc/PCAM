@@ -1,5 +1,5 @@
-# Unveiling the Uncertainty in Embodied and Operational Carbon of Large Language Models through a Probabilistic Carbon Accounting Model
-
+<img width="660" height="100" alt="image" src="https://github.com/user-attachments/assets/89ed0c71-0ddf-4aac-bfb0-f9bc99c15fc7" /># PCAM: Unveiling the Uncertainty in Embodied and Operational Carbon of Large Language Models through a Probabilistic Carbon Accounting Model
+PCAM is a Probabilistic Carbon Accounting Model for large AI models that enable probabilistic carbon footprint modeling, including both embodied and operational carbon. Read more in our paper [here](https://openreview.net/pdf?id=9QyNYxKeKr). 
 
 
 ### Data Sources for the Carbon Emissions of Electricity Energy
