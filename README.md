@@ -1,4 +1,4 @@
-<img width="660" height="100" alt="image" src="https://github.com/user-attachments/assets/89ed0c71-0ddf-4aac-bfb0-f9bc99c15fc7" /># PCAM: Unveiling the Uncertainty in Embodied and Operational Carbon of Large Language Models through a Probabilistic Carbon Accounting Model
+PCAM: Unveiling the Uncertainty in Embodied and Operational Carbon of Large Language Models through a Probabilistic Carbon Accounting Model
 PCAM is a Probabilistic Carbon Accounting Model for large AI models that enable probabilistic carbon footprint modeling, including both embodied and operational carbon. Read more in our paper [here](https://openreview.net/pdf?id=9QyNYxKeKr). 
 
 
@@ -6,9 +6,9 @@ PCAM is a Probabilistic Carbon Accounting Model for large AI models that enable 
 
 | Regions | Korea | China | Taiwan | USA | Japan | EU | Other | Source |
 |---------|-------|-------|--------|-----|-------|----|-------|--------|
-| Yearly  | ✓     | ✓     | ✓      | ✓   | ✓     | ✓  | -     | World in Data |
-| Monthly | ✓     | ✓     | ✓      | ✓   | ✓     | -  | -     | EMBIR  |
-| Hourly  | ✓     | -     | ✓      | ✓   | ✓     | -  | ✓     | ENTSOE , ElectricityMaps  |
+| Yearly  | ✓     | ✓     | ✓      | ✓   | ✓     | ✓  | -     | [World in Data](https://ourworldindata.org/grapher/carbon-intensity-electricity?tab=chart) |
+| Monthly | ✓     | ✓     | ✓      | ✓   | ✓     | -  | -     | [EMBIR](https://ember-climate.org/countries-and-regions/)  |
+| Hourly  | ✓     | -     | ✓      | ✓   | ✓     | -  | ✓     | [ENTSOE](https://transparency.entsoe.eu/dashboard/show?loggedUserIsPrivileged=false) , [ElectricityMaps](https://app.electricitymaps.com/map)  |
 
 ### Data Sources for Hardware
 
