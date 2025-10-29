@@ -1,5 +1,10 @@
-#PCAM: Unveiling the Uncertainty in Embodied and Operational Carbon of Large Language Models through a Probabilistic Carbon Accounting Model
-PCAM is a Probabilistic Carbon Accounting Model for large AI models that enable probabilistic carbon footprint modeling, including both embodied and operational carbon. Read more in our paper [here](https://openreview.net/pdf?id=9QyNYxKeKr). 
+# PCAM: Unveiling the Uncertainty in Embodied and Operational Carbon of Large Language Models through a Probabilistic Carbon Accounting Model
+
+PCAM is a Probabilistic Carbon Accounting Model for large AI models that enable probabilistic carbon footprint modeling, including both embodied and operational carbon. 
+
+PCAM is a formula-based accounting model; you can easily calculate the probabilistic or deterministic carbon footprint accounting results using the following dataset for parameters in PCAM. (Note that PCAM is an accounting model; it does not predict the electricity consumption of an AI model; the operating power and duration of the AI system should be recorded as input to PCAM.) 
+
+Read more in our paper [here](https://openreview.net/pdf?id=9QyNYxKeKr). 
 
 
 ### Data Sources for the Carbon Intensity of Electricity
@@ -13,11 +18,11 @@ PCAM is a Probabilistic Carbon Accounting Model for large AI models that enable 
 
 | Parameter | Description | Unit | Sources |
 |-----------|-------------|------|---------|
-| Fabrication capacity | Global wafer fabrication capacity by regions | % | [Industrial report]([https://www.semiconductors.org/wp-content/uploads/2024/05/ReportEmerging-Resilience-in-the-Semiconductor-Supply-Chain.pdf.](https://www.semiconductors.org/wp-content/uploads/2024/05/Report_Emerging-Resilience-in-the-Semiconductor-Supply-Chain.pdf))|
+| Fabrication capacity | Global wafer fabrication capacity by regions | % | [Industrial report](https://www.semiconductors.org/wp-content/uploads/2024/05/Report_Emerging-Resilience-in-the-Semiconductor-Supply-Chain.pdf)|
 | Energy efficiency | Annual improvement of process energy efficiency across 7-28nm | % | [ESG reports](https://esg.tsmc.com/en-US/resources/ESG-data-hub?tab=reportbuilder)  |
 | EPS | Electricity consumed per die Size | kWh/cm² | [Research paper](https://dl.acm.org/doi/10.1145/3632775.3661939)  |
 | GPS | Carbon emission from Gas per die Size | g/cm² | [Research paper](https://dl.acm.org/doi/10.1145/3632775.3661939) |
-| MPS | Carbon emission from Material used per die Size | g/cm² |  [Research paper](https://dl.acm.org/doi/10.1145/3632775.3661939 |
+| MPS | Carbon emission from Material used per die Size | g/cm² |  [Research paper](https://dl.acm.org/doi/10.1145/3632775.3661939) |
 | BD | Bit density | GB/cm² | [Industrial research reports](https://www.flashmemorysummit.com/English/Collaterals/Proceedings/2017/20170808_FR12_Choe.pdf)  |
 | EPG | Electricity consumed per GB | kWh/GB | [LCA reports](https://www.seagate.com/gb/en/esg/planet/product-sustainability/)   |
 | Die size | Include popular GPUs and CPUs | mm² | [Industrial reports](https://www.techpowerup.com/gpu-specs/)  |
