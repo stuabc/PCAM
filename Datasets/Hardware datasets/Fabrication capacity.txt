@@ -1,0 +1,6 @@
+Regions 		US 	China 	Taiwan 	Korea 	Japan	 Others
+<10nm Logic 	0% 	0% 	69% 	31% 	0% 	0%
+10-22nm Logic 	28% 	6% 	40% 	9% 	5% 	12%
+28nm+ Logic 	8% 	33% 	30%	5%	10%	14%
+Memory(DRAM) 	3% 	18%	 20% 	52% 	7% 	0%
+Storage(NAND)	3% 	26%	 4% 	30%	 30% 	7%
