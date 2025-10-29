@@ -1,0 +1,366 @@
+Datetime (UTC),Country,Zone Name,Zone Id,Carbon Intensity gCO₂eq/kWh (direct),Carbon Intensity gCO₂eq/kWh (LCA),Low Carbon Percentage,Renewable Percentage,Data Source
+2023-01-01 00:00:00,Singapore,Singapore,SG,371.82,490.94,4.47,4.47, ema.gov.sg; emcsg.com
+2023-01-02 00:00:00,Singapore,Singapore,SG,369.84,488.53,4.80,4.80,Electricity Maps Estimation;  ema.gov.sg; emcsg.com
+2023-01-03 00:00:00,Singapore,Singapore,SG,371.36,490.42,4.07,4.07, ema.gov.sg; emcsg.com
+2023-01-04 00:00:00,Singapore,Singapore,SG,373.52,492.84,3.59,3.59, ema.gov.sg; emcsg.com
+2023-01-05 00:00:00,Singapore,Singapore,SG,372.64,491.62,3.91,3.91, ema.gov.sg; emcsg.com
+2023-01-06 00:00:00,Singapore,Singapore,SG,370.63,488.96,4.70,4.70, ema.gov.sg; emcsg.com
+2023-01-07 00:00:00,Singapore,Singapore,SG,372.10,490.81,4.58,4.58, ema.gov.sg; emcsg.com
+2023-01-08 00:00:00,Singapore,Singapore,SG,369.23,487.50,5.29,5.29, ema.gov.sg; emcsg.com
+2023-01-09 00:00:00,Singapore,Singapore,SG,371.98,490.52,4.23,4.23, ema.gov.sg; emcsg.com
+2023-01-10 00:00:00,Singapore,Singapore,SG,372.92,491.67,3.99,3.99, ema.gov.sg; emcsg.com
+2023-01-11 00:00:00,Singapore,Singapore,SG,374.61,493.85,3.50,3.50,Electricity Maps Estimation;  ema.gov.sg; emcsg.com
+2023-01-12 00:00:00,Singapore,Singapore,SG,371.08,489.64,4.45,4.45, ema.gov.sg; emcsg.com
+2023-01-13 00:00:00,Singapore,Singapore,SG,373.37,492.58,3.79,3.79, ema.gov.sg; emcsg.com
+2023-01-14 00:00:00,Singapore,Singapore,SG,371.11,490.06,4.49,4.49, ema.gov.sg; emcsg.com
+2023-01-15 00:00:00,Singapore,Singapore,SG,371.08,489.91,4.66,4.66, ema.gov.sg; emcsg.com
+2023-01-16 00:00:00,Singapore,Singapore,SG,372.65,491.44,4.31,4.31, ema.gov.sg; emcsg.com
+2023-01-17 00:00:00,Singapore,Singapore,SG,370.81,489.11,4.94,4.94, ema.gov.sg; emcsg.com
+2023-01-18 00:00:00,Singapore,Singapore,SG,372.31,490.90,4.56,4.56, ema.gov.sg; emcsg.com
+2023-01-19 00:00:00,Singapore,Singapore,SG,374.24,493.43,3.94,3.94, ema.gov.sg; emcsg.com
+2023-01-20 00:00:00,Singapore,Singapore,SG,374.05,493.45,3.72,3.72, ema.gov.sg; emcsg.com
+2023-01-21 00:00:00,Singapore,Singapore,SG,370.20,489.03,4.68,4.68, ema.gov.sg; emcsg.com
+2023-01-22 00:00:00,Singapore,Singapore,SG,372.72,492.08,4.06,4.06, ema.gov.sg; emcsg.com
+2023-01-23 00:00:00,Singapore,Singapore,SG,374.64,494.43,3.48,3.48, ema.gov.sg; emcsg.com
+2023-01-24 00:00:00,Singapore,Singapore,SG,375.47,495.40,3.00,3.00, ema.gov.sg; emcsg.com
+2023-01-25 00:00:00,Singapore,Singapore,SG,375.00,494.70,2.80,2.80, ema.gov.sg; emcsg.com
+2023-01-26 00:00:00,Singapore,Singapore,SG,373.07,492.35,3.22,3.22, ema.gov.sg; emcsg.com
+2023-01-27 00:00:00,Singapore,Singapore,SG,370.43,488.95,4.04,4.04, ema.gov.sg; emcsg.com
+2023-01-28 00:00:00,Singapore,Singapore,SG,375.15,494.92,2.69,2.69, ema.gov.sg; emcsg.com
+2023-01-29 00:00:00,Singapore,Singapore,SG,373.35,492.95,2.69,2.69, ema.gov.sg; emcsg.com
+2023-01-30 00:00:00,Singapore,Singapore,SG,371.47,490.59,3.02,3.02, ema.gov.sg; emcsg.com
+2023-01-31 00:00:00,Singapore,Singapore,SG,373.60,493.05,2.55,2.55, ema.gov.sg; emcsg.com
+2023-02-01 00:00:00,Singapore,Singapore,SG,370.41,489.17,3.42,3.42, ema.gov.sg; emcsg.com
+2023-02-02 00:00:00,Singapore,Singapore,SG,370.95,489.76,3.61,3.61, ema.gov.sg; emcsg.com
+2023-02-03 00:00:00,Singapore,Singapore,SG,370.06,489.21,3.63,3.63, ema.gov.sg; emcsg.com
+2023-02-04 00:00:00,Singapore,Singapore,SG,374.22,493.96,2.84,2.84,Electricity Maps Estimation;  ema.gov.sg; emcsg.com
+2023-02-05 00:00:00,Singapore,Singapore,SG,369.83,488.57,4.18,4.18,Electricity Maps Estimation
+2023-02-06 00:00:00,Singapore,Singapore,SG,371.74,490.53,3.64,3.64,Electricity Maps Estimation;  ema.gov.sg; emcsg.com
+2023-02-07 00:00:00,Singapore,Singapore,SG,371.37,489.93,3.70,3.70,Electricity Maps Estimation
+2023-02-08 00:00:00,Singapore,Singapore,SG,373.29,492.09,3.56,3.56,Electricity Maps Estimation;  ema.gov.sg; emcsg.com
+2023-02-09 00:00:00,Singapore,Singapore,SG,371.36,489.74,4.18,4.18,Electricity Maps Estimation;  ema.gov.sg; emcsg.com
+2023-02-10 00:00:00,Singapore,Singapore,SG,371.32,490.33,3.79,3.79,Electricity Maps Estimation;  ema.gov.sg; emcsg.com
+2023-02-11 00:00:00,Singapore,Singapore,SG,371.05,489.78,4.30,4.30, ema.gov.sg; emcsg.com
+2023-02-12 00:00:00,Singapore,Singapore,SG,373.01,492.23,3.84,3.84, ema.gov.sg; emcsg.com
+2023-02-13 00:00:00,Singapore,Singapore,SG,371.27,490.18,4.00,4.00, ema.gov.sg; emcsg.com
+2023-02-14 00:00:00,Singapore,Singapore,SG,371.24,489.91,4.18,4.18, ema.gov.sg; emcsg.com
+2023-02-15 00:00:00,Singapore,Singapore,SG,373.21,492.33,3.69,3.69, ema.gov.sg; emcsg.com
+2023-02-16 00:00:00,Singapore,Singapore,SG,369.43,487.81,4.60,4.60, ema.gov.sg; emcsg.com
+2023-02-17 00:00:00,Singapore,Singapore,SG,371.52,490.31,4.05,4.05, ema.gov.sg; emcsg.com
+2023-02-18 00:00:00,Singapore,Singapore,SG,368.92,487.50,4.66,4.66, ema.gov.sg; emcsg.com
+2023-02-19 00:00:00,Singapore,Singapore,SG,369.75,488.43,4.54,4.54, ema.gov.sg; emcsg.com
+2023-02-20 00:00:00,Singapore,Singapore,SG,372.82,491.64,3.84,3.84, ema.gov.sg; emcsg.com
+2023-02-21 00:00:00,Singapore,Singapore,SG,370.63,488.97,4.48,4.48, ema.gov.sg; emcsg.com
+2023-02-22 00:00:00,Singapore,Singapore,SG,373.02,491.70,4.02,4.02, ema.gov.sg; emcsg.com
+2023-02-23 00:00:00,Singapore,Singapore,SG,372.33,490.94,4.14,4.14, ema.gov.sg; emcsg.com
+2023-02-24 00:00:00,Singapore,Singapore,SG,371.73,490.03,4.47,4.47, ema.gov.sg; emcsg.com
+2023-02-25 00:00:00,Singapore,Singapore,SG,370.90,489.61,4.46,4.46, ema.gov.sg; emcsg.com
+2023-02-26 00:00:00,Singapore,Singapore,SG,368.69,487.07,5.07,5.07, ema.gov.sg; emcsg.com
+2023-02-27 00:00:00,Singapore,Singapore,SG,372.37,490.98,4.19,4.19, ema.gov.sg; emcsg.com
+2023-02-28 00:00:00,Singapore,Singapore,SG,376.68,496.07,3.19,3.19, ema.gov.sg; emcsg.com
+2023-03-01 00:00:00,Singapore,Singapore,SG,374.58,493.86,3.54,3.54, ema.gov.sg; emcsg.com
+2023-03-02 00:00:00,Singapore,Singapore,SG,372.60,491.49,4.07,4.07, ema.gov.sg; emcsg.com
+2023-03-03 00:00:00,Singapore,Singapore,SG,375.75,495.35,3.05,3.05, ema.gov.sg; emcsg.com
+2023-03-04 00:00:00,Singapore,Singapore,SG,373.85,493.64,3.05,3.05, ema.gov.sg; emcsg.com
+2023-03-05 00:00:00,Singapore,Singapore,SG,370.94,489.91,4.02,4.02, ema.gov.sg; emcsg.com
+2023-03-06 00:00:00,Singapore,Singapore,SG,370.66,489.21,4.08,4.08, ema.gov.sg; emcsg.com
+2023-03-07 00:00:00,Singapore,Singapore,SG,370.99,489.64,3.99,3.99, ema.gov.sg; emcsg.com
+2023-03-08 00:00:00,Singapore,Singapore,SG,371.99,490.41,3.87,3.87, ema.gov.sg; emcsg.com
+2023-03-09 00:00:00,Singapore,Singapore,SG,369.34,487.24,4.69,4.69, ema.gov.sg; emcsg.com
+2023-03-10 00:00:00,Singapore,Singapore,SG,371.79,490.18,4.03,4.03, ema.gov.sg; emcsg.com
+2023-03-11 00:00:00,Singapore,Singapore,SG,369.62,488.23,4.31,4.31, ema.gov.sg; emcsg.com
+2023-03-12 00:00:00,Singapore,Singapore,SG,367.84,486.24,4.76,4.76, ema.gov.sg; emcsg.com
+2023-03-13 00:00:00,Singapore,Singapore,SG,369.89,488.07,4.52,4.52, ema.gov.sg; emcsg.com
+2023-03-14 00:00:00,Singapore,Singapore,SG,371.98,490.63,4.29,4.29, ema.gov.sg; emcsg.com
+2023-03-15 00:00:00,Singapore,Singapore,SG,371.10,489.61,4.42,4.42, ema.gov.sg; emcsg.com
+2023-03-16 00:00:00,Singapore,Singapore,SG,367.90,486.31,4.69,4.69, ema.gov.sg; emcsg.com
+2023-03-17 00:00:00,Singapore,Singapore,SG,368.06,486.44,4.44,4.44, ema.gov.sg; emcsg.com
+2023-03-18 00:00:00,Singapore,Singapore,SG,369.08,487.44,4.48,4.48, ema.gov.sg; emcsg.com
+2023-03-19 00:00:00,Singapore,Singapore,SG,371.28,490.10,3.90,3.90, ema.gov.sg; emcsg.com
+2023-03-20 00:00:00,Singapore,Singapore,SG,372.53,491.26,3.35,3.35, ema.gov.sg; emcsg.com
+2023-03-21 00:00:00,Singapore,Singapore,SG,370.24,488.64,3.94,3.94, ema.gov.sg; emcsg.com
+2023-03-22 00:00:00,Singapore,Singapore,SG,371.28,489.65,3.73,3.73, ema.gov.sg; emcsg.com
+2023-03-23 00:00:00,Singapore,Singapore,SG,369.26,487.42,4.07,4.07, ema.gov.sg; emcsg.com
+2023-03-24 00:00:00,Singapore,Singapore,SG,371.68,490.24,3.52,3.52, ema.gov.sg; emcsg.com
+2023-03-25 00:00:00,Singapore,Singapore,SG,371.84,491.24,3.01,3.01, ema.gov.sg; emcsg.com
+2023-03-26 00:00:00,Singapore,Singapore,SG,368.00,486.76,3.95,3.95, ema.gov.sg; emcsg.com
+2023-03-27 00:00:00,Singapore,Singapore,SG,373.10,492.82,2.50,2.50, ema.gov.sg; emcsg.com
+2023-03-28 00:00:00,Singapore,Singapore,SG,367.14,485.59,4.26,4.26, ema.gov.sg; emcsg.com
+2023-03-29 00:00:00,Singapore,Singapore,SG,369.33,487.74,4.03,4.03, ema.gov.sg; emcsg.com
+2023-03-30 00:00:00,Singapore,Singapore,SG,368.90,487.46,4.02,4.02, ema.gov.sg; emcsg.com
+2023-03-31 00:00:00,Singapore,Singapore,SG,369.83,488.64,4.02,4.02, ema.gov.sg; emcsg.com
+2023-04-01 00:00:00,Singapore,Singapore,SG,371.19,490.30,3.98,3.98, ema.gov.sg; emcsg.com
+2023-04-02 00:00:00,Singapore,Singapore,SG,369.84,488.77,4.11,4.11, ema.gov.sg; emcsg.com
+2023-04-03 00:00:00,Singapore,Singapore,SG,373.60,493.14,3.04,3.04, ema.gov.sg; emcsg.com
+2023-04-04 00:00:00,Singapore,Singapore,SG,367.44,485.77,4.49,4.49, ema.gov.sg; emcsg.com
+2023-04-05 00:00:00,Singapore,Singapore,SG,371.73,491.21,2.86,2.86, ema.gov.sg; emcsg.com
+2023-04-06 00:00:00,Singapore,Singapore,SG,369.07,487.89,3.67,3.67, ema.gov.sg; emcsg.com
+2023-04-07 00:00:00,Singapore,Singapore,SG,371.38,490.71,3.22,3.22, ema.gov.sg; emcsg.com
+2023-04-08 00:00:00,Singapore,Singapore,SG,368.26,486.97,4.01,4.01, ema.gov.sg; emcsg.com
+2023-04-09 00:00:00,Singapore,Singapore,SG,369.06,487.89,3.83,3.83, ema.gov.sg; emcsg.com
+2023-04-10 00:00:00,Singapore,Singapore,SG,368.05,486.74,3.85,3.85, ema.gov.sg; emcsg.com
+2023-04-11 00:00:00,Singapore,Singapore,SG,366.76,485.12,4.25,4.25, ema.gov.sg; emcsg.com
+2023-04-12 00:00:00,Singapore,Singapore,SG,368.35,486.85,4.12,4.12,Electricity Maps Estimation;  ema.gov.sg; emcsg.com
+2023-04-13 00:00:00,Singapore,Singapore,SG,371.01,490.22,3.35,3.35, ema.gov.sg; emcsg.com
+2023-04-14 00:00:00,Singapore,Singapore,SG,369.75,488.62,3.96,3.96, ema.gov.sg; emcsg.com
+2023-04-15 00:00:00,Singapore,Singapore,SG,369.01,487.73,4.36,4.36, ema.gov.sg; emcsg.com
+2023-04-16 00:00:00,Singapore,Singapore,SG,369.77,488.71,4.15,4.15, ema.gov.sg; emcsg.com
+2023-04-17 00:00:00,Singapore,Singapore,SG,369.11,488.00,3.84,3.84, ema.gov.sg; emcsg.com
+2023-04-18 00:00:00,Singapore,Singapore,SG,368.11,486.68,4.26,4.26, ema.gov.sg; emcsg.com
+2023-04-19 00:00:00,Singapore,Singapore,SG,373.27,493.00,2.89,2.89, ema.gov.sg; emcsg.com
+2023-04-20 00:00:00,Singapore,Singapore,SG,372.06,491.62,3.05,3.05, ema.gov.sg; emcsg.com
+2023-04-21 00:00:00,Singapore,Singapore,SG,369.11,488.02,4.03,4.03, ema.gov.sg; emcsg.com
+2023-04-22 00:00:00,Singapore,Singapore,SG,368.41,487.19,4.10,4.10, ema.gov.sg; emcsg.com
+2023-04-23 00:00:00,Singapore,Singapore,SG,367.00,485.52,4.44,4.44, ema.gov.sg; emcsg.com
+2023-04-24 00:00:00,Singapore,Singapore,SG,369.37,488.31,3.65,3.65, ema.gov.sg; emcsg.com
+2023-04-25 00:00:00,Singapore,Singapore,SG,370.40,489.58,3.25,3.25,Electricity Maps Estimation;  ema.gov.sg; emcsg.com
+2023-04-26 00:00:00,Singapore,Singapore,SG,367.98,486.62,3.89,3.89,Electricity Maps Estimation;  ema.gov.sg; emcsg.com
+2023-04-27 00:00:00,Singapore,Singapore,SG,369.34,488.31,3.59,3.59, ema.gov.sg; emcsg.com
+2023-04-28 00:00:00,Singapore,Singapore,SG,370.90,490.24,3.30,3.30, ema.gov.sg; emcsg.com
+2023-04-29 00:00:00,Singapore,Singapore,SG,368.32,487.02,4.29,4.29, ema.gov.sg; emcsg.com
+2023-04-30 00:00:00,Singapore,Singapore,SG,371.29,490.54,3.71,3.71, ema.gov.sg; emcsg.com
+2023-05-01 00:00:00,Singapore,Singapore,SG,368.15,486.80,4.45,4.45, ema.gov.sg; emcsg.com
+2023-05-02 00:00:00,Singapore,Singapore,SG,369.13,487.99,3.93,3.93, ema.gov.sg; emcsg.com
+2023-05-03 00:00:00,Singapore,Singapore,SG,369.65,488.64,3.77,3.77,Electricity Maps Estimation;  ema.gov.sg; emcsg.com
+2023-05-04 00:00:00,Singapore,Singapore,SG,369.20,488.10,4.03,4.03,Electricity Maps Estimation;  ema.gov.sg; emcsg.com
+2023-05-05 00:00:00,Singapore,Singapore,SG,370.76,489.79,3.91,3.91, ema.gov.sg; emcsg.com
+2023-05-06 00:00:00,Singapore,Singapore,SG,368.98,487.55,4.63,4.63, ema.gov.sg; emcsg.com
+2023-05-07 00:00:00,Singapore,Singapore,SG,370.18,489.09,4.17,4.17, ema.gov.sg; emcsg.com
+2023-05-08 00:00:00,Singapore,Singapore,SG,367.90,486.55,4.11,4.11, ema.gov.sg; emcsg.com
+2023-05-09 00:00:00,Singapore,Singapore,SG,368.42,487.09,4.02,4.02, ema.gov.sg; emcsg.com
+2023-05-10 00:00:00,Singapore,Singapore,SG,367.41,485.98,3.75,3.75, ema.gov.sg; emcsg.com
+2023-05-11 00:00:00,Singapore,Singapore,SG,367.58,486.28,3.30,3.30,Electricity Maps Estimation;  ema.gov.sg; emcsg.com
+2023-05-12 00:00:00,Singapore,Singapore,SG,366.87,485.47,3.48,3.48, ema.gov.sg; emcsg.com
+2023-05-13 00:00:00,Singapore,Singapore,SG,365.93,484.36,3.82,3.82, ema.gov.sg; emcsg.com
+2023-05-14 00:00:00,Singapore,Singapore,SG,368.09,486.93,3.30,3.30, ema.gov.sg; emcsg.com
+2023-05-15 00:00:00,Singapore,Singapore,SG,368.41,487.39,3.01,3.01, ema.gov.sg; emcsg.com
+2023-05-16 00:00:00,Singapore,Singapore,SG,369.79,489.13,2.63,2.63, ema.gov.sg; emcsg.com
+2023-05-17 00:00:00,Singapore,Singapore,SG,369.69,488.97,2.66,2.66, ema.gov.sg; emcsg.com
+2023-05-18 00:00:00,Singapore,Singapore,SG,366.92,485.63,3.40,3.40, ema.gov.sg; emcsg.com
+2023-05-19 00:00:00,Singapore,Singapore,SG,368.46,487.46,3.03,3.03, ema.gov.sg; emcsg.com
+2023-05-20 00:00:00,Singapore,Singapore,SG,367.72,486.59,3.31,3.31, ema.gov.sg; emcsg.com
+2023-05-21 00:00:00,Singapore,Singapore,SG,371.59,491.19,2.42,2.42, ema.gov.sg; emcsg.com
+2023-05-22 00:00:00,Singapore,Singapore,SG,365.76,484.11,3.81,3.81, ema.gov.sg; emcsg.com
+2023-05-23 00:00:00,Singapore,Singapore,SG,367.00,485.60,3.49,3.49, ema.gov.sg; emcsg.com
+2023-05-24 00:00:00,Singapore,Singapore,SG,365.11,483.32,3.96,3.96,Electricity Maps Estimation;  ema.gov.sg; emcsg.com
+2023-05-25 00:00:00,Singapore,Singapore,SG,363.36,481.23,4.47,4.47,Electricity Maps Estimation
+2023-05-26 00:00:00,Singapore,Singapore,SG,363.94,482.03,4.31,4.31,Electricity Maps Estimation
+2023-05-27 00:00:00,Singapore,Singapore,SG,365.25,483.52,4.23,4.23,Electricity Maps Estimation
+2023-05-28 00:00:00,Singapore,Singapore,SG,366.44,484.85,4.07,4.07,Electricity Maps Estimation
+2023-05-29 00:00:00,Singapore,Singapore,SG,367.05,485.59,3.85,3.85,Electricity Maps Estimation
+2023-05-30 00:00:00,Singapore,Singapore,SG,368.17,486.85,3.67,3.67,Electricity Maps Estimation;  ema.gov.sg; emcsg.com
+2023-05-31 00:00:00,Singapore,Singapore,SG,366.85,485.25,4.05,4.05,Electricity Maps Estimation;  ema.gov.sg; emcsg.com
+2023-06-01 00:00:00,Singapore,Singapore,SG,371.89,491.57,2.32,2.32, ema.gov.sg; emcsg.com
+2023-06-02 00:00:00,Singapore,Singapore,SG,366.22,484.69,3.84,3.84, ema.gov.sg; emcsg.com
+2023-06-03 00:00:00,Singapore,Singapore,SG,369.48,488.68,2.74,2.74, ema.gov.sg; emcsg.com
+2023-06-04 00:00:00,Singapore,Singapore,SG,371.33,490.91,2.24,2.24, ema.gov.sg; emcsg.com
+2023-06-05 00:00:00,Singapore,Singapore,SG,365.29,483.65,3.69,3.69, ema.gov.sg; emcsg.com
+2023-06-06 00:00:00,Singapore,Singapore,SG,369.16,488.37,2.38,2.38, ema.gov.sg; emcsg.com
+2023-06-07 00:00:00,Singapore,Singapore,SG,368.03,486.96,2.93,2.93, ema.gov.sg; emcsg.com
+2023-06-08 00:00:00,Singapore,Singapore,SG,366.18,484.73,3.42,3.42, ema.gov.sg; emcsg.com
+2023-06-09 00:00:00,Singapore,Singapore,SG,366.12,484.67,3.44,3.44, ema.gov.sg; emcsg.com
+2023-06-10 00:00:00,Singapore,Singapore,SG,364.90,483.09,3.99,3.99, ema.gov.sg; emcsg.com
+2023-06-11 00:00:00,Singapore,Singapore,SG,366.24,484.69,3.68,3.68, ema.gov.sg; emcsg.com
+2023-06-12 00:00:00,Singapore,Singapore,SG,370.33,489.73,2.37,2.37, ema.gov.sg; emcsg.com
+2023-06-13 00:00:00,Singapore,Singapore,SG,365.49,483.97,3.56,3.56, ema.gov.sg; emcsg.com
+2023-06-14 00:00:00,Singapore,Singapore,SG,368.64,487.73,2.75,2.75, ema.gov.sg; emcsg.com
+2023-06-15 00:00:00,Singapore,Singapore,SG,366.53,485.20,3.29,3.29, ema.gov.sg; emcsg.com
+2023-06-16 00:00:00,Singapore,Singapore,SG,366.19,484.80,3.37,3.37, ema.gov.sg; emcsg.com
+2023-06-17 00:00:00,Singapore,Singapore,SG,367.47,486.29,3.15,3.15, ema.gov.sg; emcsg.com
+2023-06-18 00:00:00,Singapore,Singapore,SG,370.90,490.36,2.36,2.36, ema.gov.sg; emcsg.com
+2023-06-19 00:00:00,Singapore,Singapore,SG,367.81,486.65,3.02,3.02, ema.gov.sg; emcsg.com
+2023-06-20 00:00:00,Singapore,Singapore,SG,367.25,485.93,3.18,3.18, ema.gov.sg; emcsg.com
+2023-06-21 00:00:00,Singapore,Singapore,SG,366.15,484.61,3.46,3.46, ema.gov.sg; emcsg.com
+2023-06-22 00:00:00,Singapore,Singapore,SG,366.44,485.05,3.30,3.30,Electricity Maps Estimation;  ema.gov.sg; emcsg.com
+2023-06-23 00:00:00,Singapore,Singapore,SG,367.36,486.21,3.04,3.04,Electricity Maps Estimation;  ema.gov.sg; emcsg.com
+2023-06-24 00:00:00,Singapore,Singapore,SG,365.18,483.57,3.74,3.74,Electricity Maps Estimation;  ema.gov.sg; emcsg.com
+2023-06-25 00:00:00,Singapore,Singapore,SG,365.81,484.20,3.67,3.67,Electricity Maps Estimation
+2023-06-26 00:00:00,Singapore,Singapore,SG,367.64,486.58,2.96,2.96,Electricity Maps Estimation;  ema.gov.sg; emcsg.com
+2023-06-27 00:00:00,Singapore,Singapore,SG,368.39,487.48,2.77,2.77, ema.gov.sg; emcsg.com
+2023-06-28 00:00:00,Singapore,Singapore,SG,367.44,486.33,3.05,3.05, ema.gov.sg; emcsg.com
+2023-06-29 00:00:00,Singapore,Singapore,SG,365.89,484.38,3.64,3.64, ema.gov.sg; emcsg.com
+2023-06-30 00:00:00,Singapore,Singapore,SG,369.49,488.78,2.51,2.51, ema.gov.sg; emcsg.com
+2023-07-01 00:00:00,Singapore,Singapore,SG,366.74,485.45,3.40,3.40, ema.gov.sg; emcsg.com
+2023-07-02 00:00:00,Singapore,Singapore,SG,368.07,486.87,3.17,3.17, ema.gov.sg; emcsg.com
+2023-07-03 00:00:00,Singapore,Singapore,SG,370.46,489.76,2.52,2.52, ema.gov.sg; emcsg.com
+2023-07-04 00:00:00,Singapore,Singapore,SG,366.73,485.29,3.67,3.67, ema.gov.sg; emcsg.com
+2023-07-05 00:00:00,Singapore,Singapore,SG,368.22,487.17,3.16,3.16, ema.gov.sg; emcsg.com
+2023-07-06 00:00:00,Singapore,Singapore,SG,370.40,489.83,2.57,2.57, ema.gov.sg; emcsg.com
+2023-07-07 00:00:00,Singapore,Singapore,SG,367.67,486.54,3.21,3.21, ema.gov.sg; emcsg.com
+2023-07-08 00:00:00,Singapore,Singapore,SG,366.90,485.51,3.52,3.52, ema.gov.sg; emcsg.com
+2023-07-09 00:00:00,Singapore,Singapore,SG,370.03,489.32,2.70,2.70, ema.gov.sg; emcsg.com
+2023-07-10 00:00:00,Singapore,Singapore,SG,368.65,487.73,2.87,2.87, ema.gov.sg; emcsg.com
+2023-07-11 00:00:00,Singapore,Singapore,SG,372.45,492.27,2.06,2.06,Electricity Maps Estimation;  ema.gov.sg; emcsg.com
+2023-07-12 00:00:00,Singapore,Singapore,SG,367.82,486.49,3.75,3.75, ema.gov.sg; emcsg.com
+2023-07-13 00:00:00,Singapore,Singapore,SG,365.40,483.58,4.40,4.40, ema.gov.sg; emcsg.com
+2023-07-14 00:00:00,Singapore,Singapore,SG,371.99,491.63,2.53,2.53, ema.gov.sg; emcsg.com
+2023-07-15 00:00:00,Singapore,Singapore,SG,365.46,483.95,3.63,3.63, ema.gov.sg; emcsg.com
+2023-07-16 00:00:00,Singapore,Singapore,SG,365.53,483.93,3.67,3.67, ema.gov.sg; emcsg.com
+2023-07-17 00:00:00,Singapore,Singapore,SG,368.56,487.52,2.79,2.79, ema.gov.sg; emcsg.com
+2023-07-18 00:00:00,Singapore,Singapore,SG,370.27,489.64,2.33,2.33, ema.gov.sg; emcsg.com
+2023-07-19 00:00:00,Singapore,Singapore,SG,369.75,489.07,2.43,2.43, ema.gov.sg; emcsg.com
+2023-07-20 00:00:00,Singapore,Singapore,SG,370.39,490.13,1.01,1.01, ema.gov.sg; emcsg.com
+2023-07-21 00:00:00,Singapore,Singapore,SG,365.10,483.77,2.33,2.33, ema.gov.sg; emcsg.com
+2023-07-22 00:00:00,Singapore,Singapore,SG,364.75,483.31,2.49,2.49, ema.gov.sg; emcsg.com
+2023-07-23 00:00:00,Singapore,Singapore,SG,366.73,485.71,1.95,1.95, ema.gov.sg; emcsg.com
+2023-07-24 00:00:00,Singapore,Singapore,SG,371.77,491.69,0.61,0.61, ema.gov.sg; emcsg.com
+2023-07-25 00:00:00,Singapore,Singapore,SG,367.71,486.78,1.62,1.62, ema.gov.sg; emcsg.com
+2023-07-26 00:00:00,Singapore,Singapore,SG,365.23,483.69,3.06,3.06,Electricity Maps Estimation;  ema.gov.sg; emcsg.com
+2023-07-27 00:00:00,Singapore,Singapore,SG,366.22,484.87,3.18,3.18,Electricity Maps Estimation;  ema.gov.sg; emcsg.com
+2023-07-28 00:00:00,Singapore,Singapore,SG,366.76,485.48,3.08,3.08, ema.gov.sg; emcsg.com
+2023-07-29 00:00:00,Singapore,Singapore,SG,366.29,484.94,3.31,3.31, ema.gov.sg; emcsg.com
+2023-07-30 00:00:00,Singapore,Singapore,SG,364.99,483.42,3.65,3.65, ema.gov.sg; emcsg.com
+2023-07-31 00:00:00,Singapore,Singapore,SG,366.73,485.45,3.08,3.08, ema.gov.sg; emcsg.com
+2023-08-01 00:00:00,Singapore,Singapore,SG,366.79,485.46,3.10,3.10,Electricity Maps Estimation;  ema.gov.sg; emcsg.com
+2023-08-02 00:00:00,Singapore,Singapore,SG,364.84,483.19,3.56,3.56, ema.gov.sg; emcsg.com
+2023-08-03 00:00:00,Singapore,Singapore,SG,371.86,491.66,1.77,1.77, ema.gov.sg; emcsg.com
+2023-08-04 00:00:00,Singapore,Singapore,SG,364.56,482.82,3.69,3.69,Electricity Maps Estimation;  ema.gov.sg; emcsg.com
+2023-08-05 00:00:00,Singapore,Singapore,SG,364.84,483.11,3.70,3.70,Electricity Maps Estimation;  ema.gov.sg; emcsg.com
+2023-08-06 00:00:00,Singapore,Singapore,SG,363.16,481.19,4.10,4.10, ema.gov.sg; emcsg.com
+2023-08-07 00:00:00,Singapore,Singapore,SG,363.79,481.98,3.79,3.79,Electricity Maps Estimation;  ema.gov.sg; emcsg.com
+2023-08-08 00:00:00,Singapore,Singapore,SG,366.98,485.75,3.03,3.03,Electricity Maps Estimation;  ema.gov.sg; emcsg.com
+2023-08-09 00:00:00,Singapore,Singapore,SG,364.17,482.31,3.94,3.94,Electricity Maps Estimation;  ema.gov.sg; emcsg.com
+2023-08-10 00:00:00,Singapore,Singapore,SG,364.93,483.38,3.49,3.49,Electricity Maps Estimation;  ema.gov.sg; emcsg.com
+2023-08-11 00:00:00,Singapore,Singapore,SG,367.74,486.66,2.83,2.83,Electricity Maps Estimation;  ema.gov.sg; emcsg.com
+2023-08-12 00:00:00,Singapore,Singapore,SG,366.72,485.39,3.23,3.23, ema.gov.sg; emcsg.com
+2023-08-13 00:00:00,Singapore,Singapore,SG,367.01,485.78,3.16,3.16, ema.gov.sg; emcsg.com
+2023-08-14 00:00:00,Singapore,Singapore,SG,369.33,488.57,2.43,2.43, ema.gov.sg; emcsg.com
+2023-08-15 00:00:00,Singapore,Singapore,SG,365.56,484.10,3.39,3.39, ema.gov.sg; emcsg.com
+2023-08-16 00:00:00,Singapore,Singapore,SG,367.37,486.21,2.94,2.94,Electricity Maps Estimation;  ema.gov.sg; emcsg.com
+2023-08-17 00:00:00,Singapore,Singapore,SG,366.29,484.88,3.28,3.28,Electricity Maps Estimation
+2023-08-18 00:00:00,Singapore,Singapore,SG,365.94,484.54,3.34,3.34,Electricity Maps Estimation
+2023-08-19 00:00:00,Singapore,Singapore,SG,364.79,483.13,3.78,3.78,Electricity Maps Estimation
+2023-08-20 00:00:00,Singapore,Singapore,SG,364.75,483.03,3.85,3.85,Electricity Maps Estimation
+2023-08-21 00:00:00,Singapore,Singapore,SG,365.57,484.03,3.52,3.52,Electricity Maps Estimation
+2023-08-22 00:00:00,Singapore,Singapore,SG,365.47,483.87,3.59,3.59,Electricity Maps Estimation
+2023-08-23 00:00:00,Singapore,Singapore,SG,365.80,484.08,3.65,3.65,Electricity Maps Estimation
+2023-08-24 00:00:00,Singapore,Singapore,SG,365.72,484.05,3.59,3.59,Electricity Maps Estimation;  ema.gov.sg; emcsg.com
+2023-08-25 00:00:00,Singapore,Singapore,SG,373.32,493.33,1.46,1.46, ema.gov.sg; emcsg.com
+2023-08-26 00:00:00,Singapore,Singapore,SG,373.28,493.34,1.54,1.54, ema.gov.sg; emcsg.com
+2023-08-27 00:00:00,Singapore,Singapore,SG,373.38,493.42,1.56,1.56, ema.gov.sg; emcsg.com
+2023-08-28 00:00:00,Singapore,Singapore,SG,369.74,489.04,2.34,2.34, ema.gov.sg; emcsg.com
+2023-08-29 00:00:00,Singapore,Singapore,SG,367.90,486.89,2.80,2.80, ema.gov.sg; emcsg.com
+2023-08-30 00:00:00,Singapore,Singapore,SG,364.85,483.23,3.66,3.66, ema.gov.sg; emcsg.com
+2023-08-31 00:00:00,Singapore,Singapore,SG,368.41,487.47,2.69,2.69,Electricity Maps Estimation;  ema.gov.sg; emcsg.com
+2023-09-01 00:00:00,Singapore,Singapore,SG,369.14,488.26,3.01,3.01,Electricity Maps Estimation
+2023-09-02 00:00:00,Singapore,Singapore,SG,370.91,490.37,2.60,2.60,Electricity Maps Estimation
+2023-09-03 00:00:00,Singapore,Singapore,SG,370.76,490.24,2.43,2.43,Electricity Maps Estimation
+2023-09-04 00:00:00,Singapore,Singapore,SG,368.49,487.51,2.70,2.70,Electricity Maps Estimation;  ema.gov.sg; emcsg.com
+2023-09-05 00:00:00,Singapore,Singapore,SG,367.71,486.53,3.05,3.05, ema.gov.sg; emcsg.com
+2023-09-06 00:00:00,Singapore,Singapore,SG,370.98,490.52,2.21,2.21, ema.gov.sg; emcsg.com
+2023-09-07 00:00:00,Singapore,Singapore,SG,365.36,483.80,3.60,3.60, ema.gov.sg; emcsg.com
+2023-09-08 00:00:00,Singapore,Singapore,SG,364.60,482.86,3.86,3.86, ema.gov.sg; emcsg.com
+2023-09-09 00:00:00,Singapore,Singapore,SG,368.22,487.18,3.08,3.08, ema.gov.sg; emcsg.com
+2023-09-10 00:00:00,Singapore,Singapore,SG,373.67,493.71,1.70,1.70, ema.gov.sg; emcsg.com
+2023-09-11 00:00:00,Singapore,Singapore,SG,368.48,487.54,2.86,2.86, ema.gov.sg; emcsg.com
+2023-09-12 00:00:00,Singapore,Singapore,SG,367.11,485.82,3.29,3.29, ema.gov.sg; emcsg.com
+2023-09-13 00:00:00,Singapore,Singapore,SG,365.66,483.95,4.01,4.01, ema.gov.sg; emcsg.com
+2023-09-14 00:00:00,Singapore,Singapore,SG,364.18,482.13,4.68,4.68, ema.gov.sg; emcsg.com
+2023-09-15 00:00:00,Singapore,Singapore,SG,364.27,482.27,4.68,4.68, ema.gov.sg; emcsg.com
+2023-09-16 00:00:00,Singapore,Singapore,SG,365.98,484.29,4.45,4.45, ema.gov.sg; emcsg.com
+2023-09-17 00:00:00,Singapore,Singapore,SG,365.77,484.07,4.44,4.44, ema.gov.sg; emcsg.com
+2023-09-18 00:00:00,Singapore,Singapore,SG,367.21,485.82,3.94,3.94, ema.gov.sg; emcsg.com
+2023-09-19 00:00:00,Singapore,Singapore,SG,367.47,486.11,3.96,3.96, ema.gov.sg; emcsg.com
+2023-09-20 00:00:00,Singapore,Singapore,SG,369.58,488.65,3.44,3.44, ema.gov.sg; emcsg.com
+2023-09-21 00:00:00,Singapore,Singapore,SG,365.41,483.66,4.55,4.55, ema.gov.sg; emcsg.com
+2023-09-22 00:00:00,Singapore,Singapore,SG,368.97,487.92,3.63,3.63, ema.gov.sg; emcsg.com
+2023-09-23 00:00:00,Singapore,Singapore,SG,368.05,486.70,4.10,4.10, ema.gov.sg; emcsg.com
+2023-09-24 00:00:00,Singapore,Singapore,SG,371.73,491.19,3.16,3.16, ema.gov.sg; emcsg.com
+2023-09-25 00:00:00,Singapore,Singapore,SG,366.39,484.81,4.31,4.31, ema.gov.sg; emcsg.com
+2023-09-26 00:00:00,Singapore,Singapore,SG,365.87,484.14,4.45,4.45,Electricity Maps Estimation;  ema.gov.sg; emcsg.com
+2023-09-27 00:00:00,Singapore,Singapore,SG,364.60,482.59,4.79,4.79, ema.gov.sg; emcsg.com
+2023-09-28 00:00:00,Singapore,Singapore,SG,365.21,483.33,4.62,4.62, ema.gov.sg; emcsg.com
+2023-09-29 00:00:00,Singapore,Singapore,SG,366.68,485.14,4.18,4.18, ema.gov.sg; emcsg.com
+2023-09-30 00:00:00,Singapore,Singapore,SG,370.54,489.77,3.35,3.35, ema.gov.sg; emcsg.com
+2023-10-01 00:00:00,Singapore,Singapore,SG,366.13,484.44,4.56,4.56, ema.gov.sg; emcsg.com
+2023-10-02 00:00:00,Singapore,Singapore,SG,366.47,484.87,4.20,4.20, ema.gov.sg; emcsg.com
+2023-10-03 00:00:00,Singapore,Singapore,SG,369.27,488.32,3.40,3.40, ema.gov.sg; emcsg.com
+2023-10-04 00:00:00,Singapore,Singapore,SG,365.75,484.06,4.29,4.29, ema.gov.sg; emcsg.com
+2023-10-05 00:00:00,Singapore,Singapore,SG,364.97,483.11,4.45,4.45,Electricity Maps Estimation;  ema.gov.sg; emcsg.com
+2023-10-06 00:00:00,Singapore,Singapore,SG,365.30,483.49,4.31,4.31, ema.gov.sg; emcsg.com
+2023-10-07 00:00:00,Singapore,Singapore,SG,364.55,482.60,4.77,4.77,Electricity Maps Estimation;  ema.gov.sg; emcsg.com
+2023-10-08 00:00:00,Singapore,Singapore,SG,364.01,481.90,4.98,4.98, ema.gov.sg; emcsg.com
+2023-10-09 00:00:00,Singapore,Singapore,SG,368.17,486.98,3.62,3.62,Electricity Maps Estimation;  ema.gov.sg; emcsg.com
+2023-10-10 00:00:00,Singapore,Singapore,SG,367.32,485.98,3.83,3.83,Electricity Maps Estimation;  ema.gov.sg; emcsg.com
+2023-10-11 00:00:00,Singapore,Singapore,SG,367.43,486.15,3.77,3.77, ema.gov.sg; emcsg.com
+2023-10-12 00:00:00,Singapore,Singapore,SG,364.06,482.08,4.67,4.67, ema.gov.sg; emcsg.com
+2023-10-13 00:00:00,Singapore,Singapore,SG,364.61,482.77,4.41,4.41, ema.gov.sg; emcsg.com
+2023-10-14 00:00:00,Singapore,Singapore,SG,364.42,482.50,4.57,4.57, ema.gov.sg; emcsg.com
+2023-10-15 00:00:00,Singapore,Singapore,SG,364.15,482.14,4.69,4.69, ema.gov.sg; emcsg.com
+2023-10-16 00:00:00,Singapore,Singapore,SG,365.41,483.73,4.11,4.11, ema.gov.sg; emcsg.com
+2023-10-17 00:00:00,Singapore,Singapore,SG,366.74,485.32,3.76,3.76,Electricity Maps Estimation;  ema.gov.sg; emcsg.com
+2023-10-18 00:00:00,Singapore,Singapore,SG,370.38,489.66,2.90,2.90,Electricity Maps Estimation;  ema.gov.sg; emcsg.com
+2023-10-19 00:00:00,Singapore,Singapore,SG,365.86,484.23,4.14,4.14, ema.gov.sg; emcsg.com
+2023-10-20 00:00:00,Singapore,Singapore,SG,369.43,488.57,3.19,3.19, ema.gov.sg; emcsg.com
+2023-10-21 00:00:00,Singapore,Singapore,SG,365.14,483.35,4.54,4.54, ema.gov.sg; emcsg.com
+2023-10-22 00:00:00,Singapore,Singapore,SG,368.33,487.10,3.80,3.80, ema.gov.sg; emcsg.com
+2023-10-23 00:00:00,Singapore,Singapore,SG,367.47,486.17,3.75,3.75, ema.gov.sg; emcsg.com
+2023-10-24 00:00:00,Singapore,Singapore,SG,366.39,484.82,4.09,4.09, ema.gov.sg; emcsg.com
+2023-10-25 00:00:00,Singapore,Singapore,SG,368.92,487.80,3.47,3.47, ema.gov.sg; emcsg.com
+2023-10-26 00:00:00,Singapore,Singapore,SG,364.15,482.08,4.86,4.86, ema.gov.sg; emcsg.com
+2023-10-27 00:00:00,Singapore,Singapore,SG,364.25,482.26,4.67,4.67, ema.gov.sg; emcsg.com
+2023-10-28 00:00:00,Singapore,Singapore,SG,370.02,489.19,3.22,3.22, ema.gov.sg; emcsg.com
+2023-10-29 00:00:00,Singapore,Singapore,SG,373.09,492.89,2.45,2.45, ema.gov.sg; emcsg.com
+2023-10-30 00:00:00,Singapore,Singapore,SG,372.85,492.61,2.36,2.36, ema.gov.sg; emcsg.com
+2023-10-31 00:00:00,Singapore,Singapore,SG,366.63,485.11,4.13,4.13, ema.gov.sg; emcsg.com
+2023-11-01 00:00:00,Singapore,Singapore,SG,367.64,486.33,3.91,3.91, ema.gov.sg; emcsg.com
+2023-11-02 00:00:00,Singapore,Singapore,SG,366.82,485.34,4.12,4.12, ema.gov.sg; emcsg.com
+2023-11-03 00:00:00,Singapore,Singapore,SG,366.17,484.53,4.31,4.31, ema.gov.sg; emcsg.com
+2023-11-04 00:00:00,Singapore,Singapore,SG,369.72,488.73,3.58,3.58, ema.gov.sg; emcsg.com
+2023-11-05 00:00:00,Singapore,Singapore,SG,372.15,491.66,2.90,2.90, ema.gov.sg; emcsg.com
+2023-11-06 00:00:00,Singapore,Singapore,SG,371.24,490.67,2.85,2.85, ema.gov.sg; emcsg.com
+2023-11-07 00:00:00,Singapore,Singapore,SG,367.99,486.80,3.71,3.71, ema.gov.sg; emcsg.com
+2023-11-08 00:00:00,Singapore,Singapore,SG,369.81,488.96,3.18,3.18, ema.gov.sg; emcsg.com
+2023-11-09 00:00:00,Singapore,Singapore,SG,368.70,487.70,3.34,3.34,Electricity Maps Estimation;  ema.gov.sg; emcsg.com
+2023-11-10 00:00:00,Singapore,Singapore,SG,368.60,487.59,3.38,3.38, ema.gov.sg; emcsg.com
+2023-11-11 00:00:00,Singapore,Singapore,SG,364.83,482.95,4.60,4.60, ema.gov.sg; emcsg.com
+2023-11-12 00:00:00,Singapore,Singapore,SG,367.48,486.05,4.05,4.05, ema.gov.sg; emcsg.com
+2023-11-13 00:00:00,Singapore,Singapore,SG,367.29,485.81,4.03,4.03, ema.gov.sg; emcsg.com
+2023-11-14 00:00:00,Singapore,Singapore,SG,369.69,488.88,3.10,3.10, ema.gov.sg; emcsg.com
+2023-11-15 00:00:00,Singapore,Singapore,SG,366.53,485.03,3.98,3.98,Electricity Maps Estimation;  ema.gov.sg; emcsg.com
+2023-11-16 00:00:00,Singapore,Singapore,SG,367.77,486.54,3.65,3.65, ema.gov.sg; emcsg.com
+2023-11-17 00:00:00,Singapore,Singapore,SG,367.84,486.62,3.83,3.83, ema.gov.sg; emcsg.com
+2023-11-18 00:00:00,Singapore,Singapore,SG,366.19,484.49,4.51,4.51, ema.gov.sg; emcsg.com
+2023-11-19 00:00:00,Singapore,Singapore,SG,370.47,489.68,3.46,3.46, ema.gov.sg; emcsg.com
+2023-11-20 00:00:00,Singapore,Singapore,SG,366.13,484.59,3.87,3.87, ema.gov.sg; emcsg.com
+2023-11-21 00:00:00,Singapore,Singapore,SG,370.49,489.83,2.69,2.69, ema.gov.sg; emcsg.com
+2023-11-22 00:00:00,Singapore,Singapore,SG,369.35,488.43,2.96,2.96, ema.gov.sg; emcsg.com
+2023-11-23 00:00:00,Singapore,Singapore,SG,367.29,485.99,3.49,3.49, ema.gov.sg; emcsg.com
+2023-11-24 00:00:00,Singapore,Singapore,SG,367.56,486.36,3.45,3.45, ema.gov.sg; emcsg.com
+2023-11-25 00:00:00,Singapore,Singapore,SG,368.94,488.00,3.16,3.16, ema.gov.sg; emcsg.com
+2023-11-26 00:00:00,Singapore,Singapore,SG,367.59,486.31,3.61,3.61, ema.gov.sg; emcsg.com
+2023-11-27 00:00:00,Singapore,Singapore,SG,367.84,486.70,3.33,3.33, ema.gov.sg; emcsg.com
+2023-11-28 00:00:00,Singapore,Singapore,SG,367.86,486.70,3.43,3.43,Electricity Maps Estimation;  ema.gov.sg; emcsg.com
+2023-11-29 00:00:00,Singapore,Singapore,SG,368.45,487.40,3.16,3.16, ema.gov.sg; emcsg.com
+2023-11-30 00:00:00,Singapore,Singapore,SG,367.10,485.81,3.50,3.50, ema.gov.sg; emcsg.com
+2023-12-01 00:00:00,Singapore,Singapore,SG,367.67,486.52,3.42,3.42, ema.gov.sg; emcsg.com
+2023-12-02 00:00:00,Singapore,Singapore,SG,366.21,484.67,3.86,3.86, ema.gov.sg; emcsg.com
+2023-12-03 00:00:00,Singapore,Singapore,SG,371.62,491.12,2.61,2.61, ema.gov.sg; emcsg.com
+2023-12-04 00:00:00,Singapore,Singapore,SG,367.52,486.17,3.63,3.63, ema.gov.sg; emcsg.com
+2023-12-05 00:00:00,Singapore,Singapore,SG,366.40,484.91,3.88,3.88, ema.gov.sg; emcsg.com
+2023-12-06 00:00:00,Singapore,Singapore,SG,370.14,489.30,3.24,3.24, ema.gov.sg; emcsg.com
+2023-12-07 00:00:00,Singapore,Singapore,SG,367.22,485.77,4.06,4.06, ema.gov.sg; emcsg.com
+2023-12-08 00:00:00,Singapore,Singapore,SG,366.24,484.60,4.29,4.29, ema.gov.sg; emcsg.com
+2023-12-09 00:00:00,Singapore,Singapore,SG,369.94,489.07,3.22,3.22, ema.gov.sg; emcsg.com
+2023-12-10 00:00:00,Singapore,Singapore,SG,374.31,494.32,1.91,1.91, ema.gov.sg; emcsg.com
+2023-12-11 00:00:00,Singapore,Singapore,SG,369.67,488.78,2.93,2.93, ema.gov.sg; emcsg.com
+2023-12-12 00:00:00,Singapore,Singapore,SG,369.75,488.99,2.81,2.81, ema.gov.sg; emcsg.com
+2023-12-13 00:00:00,Singapore,Singapore,SG,366.20,484.71,3.71,3.71, ema.gov.sg; emcsg.com
+2023-12-14 00:00:00,Singapore,Singapore,SG,367.92,486.73,3.45,3.45, ema.gov.sg; emcsg.com
+2023-12-15 00:00:00,Singapore,Singapore,SG,365.97,484.35,4.01,4.01, ema.gov.sg; emcsg.com
+2023-12-16 00:00:00,Singapore,Singapore,SG,367.87,486.58,3.82,3.82, ema.gov.sg; emcsg.com
+2023-12-17 00:00:00,Singapore,Singapore,SG,367.12,485.64,4.15,4.15, ema.gov.sg; emcsg.com
+2023-12-18 00:00:00,Singapore,Singapore,SG,366.90,485.43,3.97,3.97, ema.gov.sg; emcsg.com
+2023-12-19 00:00:00,Singapore,Singapore,SG,368.62,487.57,3.39,3.39, ema.gov.sg; emcsg.com
+2023-12-20 00:00:00,Singapore,Singapore,SG,366.68,485.21,3.92,3.92, ema.gov.sg; emcsg.com
+2023-12-21 00:00:00,Singapore,Singapore,SG,367.55,486.19,3.82,3.82, ema.gov.sg; emcsg.com
+2023-12-22 00:00:00,Singapore,Singapore,SG,367.75,486.42,3.83,3.83, ema.gov.sg; emcsg.com
+2023-12-23 00:00:00,Singapore,Singapore,SG,371.44,490.88,2.97,2.97, ema.gov.sg; emcsg.com
+2023-12-24 00:00:00,Singapore,Singapore,SG,367.59,486.24,3.96,3.96, ema.gov.sg; emcsg.com
+2023-12-25 00:00:00,Singapore,Singapore,SG,370.13,489.36,3.12,3.12, ema.gov.sg; emcsg.com
+2023-12-26 00:00:00,Singapore,Singapore,SG,368.41,487.33,3.45,3.45,Electricity Maps Estimation;  ema.gov.sg; emcsg.com
+2023-12-27 00:00:00,Singapore,Singapore,SG,371.70,491.27,2.48,2.48,Electricity Maps Estimation;  ema.gov.sg; emcsg.com
+2023-12-28 00:00:00,Singapore,Singapore,SG,370.13,489.36,2.97,2.97, ema.gov.sg; emcsg.com
+2023-12-29 00:00:00,Singapore,Singapore,SG,365.60,483.91,4.18,4.18, ema.gov.sg; emcsg.com
+2023-12-30 00:00:00,Singapore,Singapore,SG,368.57,487.46,3.58,3.58, ema.gov.sg; emcsg.com
+2023-12-31 00:00:00,Singapore,Singapore,SG,372.14,491.65,2.82,2.82, ema.gov.sg; emcsg.com

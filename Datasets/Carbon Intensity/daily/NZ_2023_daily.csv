@@ -1,0 +1,366 @@
+Datetime (UTC),Country,Zone Name,Zone Id,Carbon Intensity gCO₂eq/kWh (direct),Carbon Intensity gCO₂eq/kWh (LCA),Low Carbon Percentage,Renewable Percentage,Data Source
+2023-01-01 00:00:00,New Zealand,New Zealand,NZ,17.82,47.60,96.61,96.61,transpower.co.nz
+2023-01-02 00:00:00,New Zealand,New Zealand,NZ,18.90,48.94,96.41,96.41,Electricity Maps Estimation; transpower.co.nz
+2023-01-03 00:00:00,New Zealand,New Zealand,NZ,19.92,49.06,96.55,96.55,transpower.co.nz
+2023-01-04 00:00:00,New Zealand,New Zealand,NZ,19.31,47.73,96.93,96.93,transpower.co.nz
+2023-01-05 00:00:00,New Zealand,New Zealand,NZ,21.71,50.54,96.58,96.58,transpower.co.nz
+2023-01-06 00:00:00,New Zealand,New Zealand,NZ,22.12,51.11,96.37,96.37,transpower.co.nz
+2023-01-07 00:00:00,New Zealand,New Zealand,NZ,18.13,46.24,96.62,96.62,transpower.co.nz
+2023-01-08 00:00:00,New Zealand,New Zealand,NZ,22.01,49.91,96.38,96.38,transpower.co.nz
+2023-01-09 00:00:00,New Zealand,New Zealand,NZ,28.61,56.79,95.62,95.62,Electricity Maps Estimation; transpower.co.nz
+2023-01-10 00:00:00,New Zealand,New Zealand,NZ,30.11,58.31,95.31,95.31,transpower.co.nz
+2023-01-11 00:00:00,New Zealand,New Zealand,NZ,31.66,59.87,95.13,95.13,transpower.co.nz
+2023-01-12 00:00:00,New Zealand,New Zealand,NZ,38.61,68.53,94.13,94.13,transpower.co.nz
+2023-01-13 00:00:00,New Zealand,New Zealand,NZ,40.67,71.27,93.85,93.85,transpower.co.nz
+2023-01-14 00:00:00,New Zealand,New Zealand,NZ,39.66,70.15,94.10,94.10,transpower.co.nz
+2023-01-15 00:00:00,New Zealand,New Zealand,NZ,46.59,79.92,91.58,91.58,transpower.co.nz
+2023-01-16 00:00:00,New Zealand,New Zealand,NZ,55.89,95.29,86.45,86.45,transpower.co.nz
+2023-01-17 00:00:00,New Zealand,New Zealand,NZ,59.95,100.74,85.25,85.25,transpower.co.nz
+2023-01-18 00:00:00,New Zealand,New Zealand,NZ,57.97,97.30,86.09,86.09,transpower.co.nz
+2023-01-19 00:00:00,New Zealand,New Zealand,NZ,63.96,104.57,84.73,84.73,transpower.co.nz
+2023-01-20 00:00:00,New Zealand,New Zealand,NZ,54.44,92.72,86.82,86.82,transpower.co.nz
+2023-01-21 00:00:00,New Zealand,New Zealand,NZ,60.01,100.35,85.50,85.50,transpower.co.nz
+2023-01-22 00:00:00,New Zealand,New Zealand,NZ,63.36,103.15,85.42,85.42,transpower.co.nz
+2023-01-23 00:00:00,New Zealand,New Zealand,NZ,78.52,120.66,82.48,82.48,transpower.co.nz
+2023-01-24 00:00:00,New Zealand,New Zealand,NZ,73.05,113.41,84.04,84.04,transpower.co.nz
+2023-01-25 00:00:00,New Zealand,New Zealand,NZ,75.55,117.12,83.01,83.01,transpower.co.nz
+2023-01-26 00:00:00,New Zealand,New Zealand,NZ,82.87,125.31,81.66,81.66,transpower.co.nz
+2023-01-27 00:00:00,New Zealand,New Zealand,NZ,64.51,104.44,84.93,84.93,transpower.co.nz
+2023-01-28 00:00:00,New Zealand,New Zealand,NZ,46.70,82.93,88.96,88.96,transpower.co.nz
+2023-01-29 00:00:00,New Zealand,New Zealand,NZ,57.78,97.27,86.21,86.21,transpower.co.nz
+2023-01-30 00:00:00,New Zealand,New Zealand,NZ,62.00,101.31,85.88,85.88,transpower.co.nz
+2023-01-31 00:00:00,New Zealand,New Zealand,NZ,68.26,108.03,84.61,84.61,transpower.co.nz
+2023-02-01 00:00:00,New Zealand,New Zealand,NZ,73.93,114.34,83.57,83.57,transpower.co.nz
+2023-02-02 00:00:00,New Zealand,New Zealand,NZ,69.96,109.42,84.75,84.75,transpower.co.nz
+2023-02-03 00:00:00,New Zealand,New Zealand,NZ,51.68,88.58,88.23,88.23,transpower.co.nz
+2023-02-04 00:00:00,New Zealand,New Zealand,NZ,39.91,75.38,90.38,90.38,transpower.co.nz
+2023-02-05 00:00:00,New Zealand,New Zealand,NZ,32.18,64.99,92.42,92.42,transpower.co.nz
+2023-02-06 00:00:00,New Zealand,New Zealand,NZ,34.49,68.03,91.83,91.83,transpower.co.nz
+2023-02-07 00:00:00,New Zealand,New Zealand,NZ,36.59,69.64,91.62,91.62,transpower.co.nz
+2023-02-08 00:00:00,New Zealand,New Zealand,NZ,37.05,70.10,91.55,91.55,transpower.co.nz
+2023-02-09 00:00:00,New Zealand,New Zealand,NZ,48.09,83.93,89.22,89.22,transpower.co.nz
+2023-02-10 00:00:00,New Zealand,New Zealand,NZ,43.69,79.83,89.70,89.70,transpower.co.nz
+2023-02-11 00:00:00,New Zealand,New Zealand,NZ,36.31,70.59,91.39,91.39,transpower.co.nz
+2023-02-12 00:00:00,New Zealand,New Zealand,NZ,42.59,76.93,90.42,90.42,transpower.co.nz
+2023-02-13 00:00:00,New Zealand,New Zealand,NZ,44.66,78.38,90.06,90.06,Electricity Maps Estimation; transpower.co.nz
+2023-02-14 00:00:00,New Zealand,New Zealand,NZ,55.47,91.38,87.99,87.99,Electricity Maps Estimation; transpower.co.nz
+2023-02-15 00:00:00,New Zealand,New Zealand,NZ,71.25,109.95,84.81,84.81,Electricity Maps Estimation; transpower.co.nz
+2023-02-16 00:00:00,New Zealand,New Zealand,NZ,73.91,113.27,84.09,84.09,Electricity Maps Estimation; transpower.co.nz
+2023-02-17 00:00:00,New Zealand,New Zealand,NZ,89.66,131.85,81.34,81.34,Electricity Maps Estimation; transpower.co.nz
+2023-02-18 00:00:00,New Zealand,New Zealand,NZ,88.71,130.56,81.64,81.64,Electricity Maps Estimation; transpower.co.nz
+2023-02-19 00:00:00,New Zealand,New Zealand,NZ,75.43,115.28,83.73,83.73,Electricity Maps Estimation; transpower.co.nz
+2023-02-20 00:00:00,New Zealand,New Zealand,NZ,78.59,118.73,83.05,83.05,Electricity Maps Estimation; transpower.co.nz
+2023-02-21 00:00:00,New Zealand,New Zealand,NZ,77.20,117.55,82.94,82.94,Electricity Maps Estimation; transpower.co.nz
+2023-02-22 00:00:00,New Zealand,New Zealand,NZ,61.84,101.08,85.24,85.24,Electricity Maps Estimation; transpower.co.nz
+2023-02-23 00:00:00,New Zealand,New Zealand,NZ,47.25,83.47,88.35,88.35,transpower.co.nz
+2023-02-24 00:00:00,New Zealand,New Zealand,NZ,44.43,79.79,89.37,89.37,Electricity Maps Estimation; transpower.co.nz
+2023-02-25 00:00:00,New Zealand,New Zealand,NZ,63.79,103.71,85.50,85.50,transpower.co.nz
+2023-02-26 00:00:00,New Zealand,New Zealand,NZ,83.50,125.31,82.37,82.37,transpower.co.nz
+2023-02-27 00:00:00,New Zealand,New Zealand,NZ,73.23,112.96,84.31,84.31,Electricity Maps Estimation; transpower.co.nz
+2023-02-28 00:00:00,New Zealand,New Zealand,NZ,72.45,112.65,84.14,84.14,Electricity Maps Estimation; transpower.co.nz
+2023-03-01 00:00:00,New Zealand,New Zealand,NZ,70.94,110.32,84.49,84.49,Electricity Maps Estimation; transpower.co.nz
+2023-03-02 00:00:00,New Zealand,New Zealand,NZ,70.12,110.20,84.32,84.32,transpower.co.nz
+2023-03-03 00:00:00,New Zealand,New Zealand,NZ,75.32,116.19,83.48,83.48,Electricity Maps Estimation; transpower.co.nz
+2023-03-04 00:00:00,New Zealand,New Zealand,NZ,73.66,114.40,83.83,83.83,Electricity Maps Estimation; transpower.co.nz
+2023-03-05 00:00:00,New Zealand,New Zealand,NZ,69.67,109.05,84.73,84.73,Electricity Maps Estimation; transpower.co.nz
+2023-03-06 00:00:00,New Zealand,New Zealand,NZ,76.38,117.43,83.42,83.42,Electricity Maps Estimation; transpower.co.nz
+2023-03-07 00:00:00,New Zealand,New Zealand,NZ,69.27,108.60,84.88,84.88,Electricity Maps Estimation; transpower.co.nz
+2023-03-08 00:00:00,New Zealand,New Zealand,NZ,60.79,99.50,85.88,85.88,Electricity Maps Estimation; transpower.co.nz
+2023-03-09 00:00:00,New Zealand,New Zealand,NZ,65.45,105.15,84.86,84.86,Electricity Maps Estimation; transpower.co.nz
+2023-03-10 00:00:00,New Zealand,New Zealand,NZ,71.70,112.27,84.16,84.16,Electricity Maps Estimation; transpower.co.nz
+2023-03-11 00:00:00,New Zealand,New Zealand,NZ,60.06,98.73,86.48,86.48,Electricity Maps Estimation; transpower.co.nz
+2023-03-12 00:00:00,New Zealand,New Zealand,NZ,54.19,91.13,87.53,87.53,Electricity Maps Estimation; transpower.co.nz
+2023-03-13 00:00:00,New Zealand,New Zealand,NZ,68.07,106.94,85.42,85.42,Electricity Maps Estimation; transpower.co.nz
+2023-03-14 00:00:00,New Zealand,New Zealand,NZ,72.96,113.68,84.09,84.09,Electricity Maps Estimation; transpower.co.nz
+2023-03-15 00:00:00,New Zealand,New Zealand,NZ,64.93,103.95,85.84,85.84,Electricity Maps Estimation; transpower.co.nz
+2023-03-16 00:00:00,New Zealand,New Zealand,NZ,46.70,82.98,88.85,88.85,Electricity Maps Estimation; transpower.co.nz
+2023-03-17 00:00:00,New Zealand,New Zealand,NZ,44.15,79.79,89.38,89.38,Electricity Maps Estimation; transpower.co.nz
+2023-03-18 00:00:00,New Zealand,New Zealand,NZ,47.79,85.23,88.64,88.64,Electricity Maps Estimation; transpower.co.nz
+2023-03-19 00:00:00,New Zealand,New Zealand,NZ,48.26,85.16,88.42,88.42,Electricity Maps Estimation; transpower.co.nz
+2023-03-20 00:00:00,New Zealand,New Zealand,NZ,40.32,74.39,90.35,90.35,Electricity Maps Estimation; transpower.co.nz
+2023-03-21 00:00:00,New Zealand,New Zealand,NZ,58.74,95.19,87.44,87.44,Electricity Maps Estimation; transpower.co.nz
+2023-03-22 00:00:00,New Zealand,New Zealand,NZ,64.62,102.84,86.06,86.06,Electricity Maps Estimation; transpower.co.nz
+2023-03-23 00:00:00,New Zealand,New Zealand,NZ,74.63,114.92,84.11,84.11,Electricity Maps Estimation; transpower.co.nz
+2023-03-24 00:00:00,New Zealand,New Zealand,NZ,59.56,96.78,87.15,87.15,Electricity Maps Estimation; transpower.co.nz
+2023-03-25 00:00:00,New Zealand,New Zealand,NZ,45.32,80.96,89.47,89.47,Electricity Maps Estimation; transpower.co.nz
+2023-03-26 00:00:00,New Zealand,New Zealand,NZ,60.72,97.35,87.27,87.27,Electricity Maps Estimation; transpower.co.nz
+2023-03-27 00:00:00,New Zealand,New Zealand,NZ,58.54,93.83,87.91,87.91,Electricity Maps Estimation; transpower.co.nz
+2023-03-28 00:00:00,New Zealand,New Zealand,NZ,61.52,97.76,87.09,87.09,Electricity Maps Estimation; transpower.co.nz
+2023-03-29 00:00:00,New Zealand,New Zealand,NZ,69.38,106.58,86.03,86.03,Electricity Maps Estimation; transpower.co.nz
+2023-03-30 00:00:00,New Zealand,New Zealand,NZ,61.67,100.03,86.37,86.37,Electricity Maps Estimation; transpower.co.nz
+2023-03-31 00:00:00,New Zealand,New Zealand,NZ,46.07,82.65,89.09,89.09,Electricity Maps Estimation; transpower.co.nz
+2023-04-01 00:00:00,New Zealand,New Zealand,NZ,45.51,81.60,89.37,89.37,Electricity Maps Estimation; transpower.co.nz
+2023-04-02 00:00:00,New Zealand,New Zealand,NZ,46.73,83.38,88.98,88.98,Electricity Maps Estimation; transpower.co.nz
+2023-04-03 00:00:00,New Zealand,New Zealand,NZ,49.16,85.82,88.51,88.51,Electricity Maps Estimation; transpower.co.nz
+2023-04-04 00:00:00,New Zealand,New Zealand,NZ,49.17,84.98,89.03,89.03,Electricity Maps Estimation; transpower.co.nz
+2023-04-05 00:00:00,New Zealand,New Zealand,NZ,39.95,73.90,90.53,90.53,Electricity Maps Estimation; transpower.co.nz
+2023-04-06 00:00:00,New Zealand,New Zealand,NZ,40.74,75.24,90.39,90.39,Electricity Maps Estimation; transpower.co.nz
+2023-04-07 00:00:00,New Zealand,New Zealand,NZ,40.35,74.30,90.80,90.80,Electricity Maps Estimation; transpower.co.nz
+2023-04-08 00:00:00,New Zealand,New Zealand,NZ,39.10,73.37,91.10,91.10,Electricity Maps Estimation; transpower.co.nz
+2023-04-09 00:00:00,New Zealand,New Zealand,NZ,40.78,75.76,90.74,90.74,Electricity Maps Estimation; transpower.co.nz
+2023-04-10 00:00:00,New Zealand,New Zealand,NZ,40.51,74.62,90.66,90.66,Electricity Maps Estimation; transpower.co.nz
+2023-04-11 00:00:00,New Zealand,New Zealand,NZ,48.30,83.08,89.67,89.67,Electricity Maps Estimation; transpower.co.nz
+2023-04-12 00:00:00,New Zealand,New Zealand,NZ,47.90,83.17,89.83,89.83,Electricity Maps Estimation; transpower.co.nz
+2023-04-13 00:00:00,New Zealand,New Zealand,NZ,45.05,79.23,90.33,90.33,Electricity Maps Estimation; transpower.co.nz
+2023-04-14 00:00:00,New Zealand,New Zealand,NZ,39.32,73.38,90.88,90.88,Electricity Maps Estimation; transpower.co.nz
+2023-04-15 00:00:00,New Zealand,New Zealand,NZ,43.65,79.12,89.99,89.99,Electricity Maps Estimation; transpower.co.nz
+2023-04-16 00:00:00,New Zealand,New Zealand,NZ,45.86,81.13,89.90,89.90,Electricity Maps Estimation; transpower.co.nz
+2023-04-17 00:00:00,New Zealand,New Zealand,NZ,51.43,86.88,89.17,89.17,Electricity Maps Estimation; transpower.co.nz
+2023-04-18 00:00:00,New Zealand,New Zealand,NZ,53.94,89.49,88.67,88.67,Electricity Maps Estimation; transpower.co.nz
+2023-04-19 00:00:00,New Zealand,New Zealand,NZ,56.22,92.03,88.42,88.42,Electricity Maps Estimation; transpower.co.nz
+2023-04-20 00:00:00,New Zealand,New Zealand,NZ,57.32,93.22,88.15,88.15,Electricity Maps Estimation; transpower.co.nz
+2023-04-21 00:00:00,New Zealand,New Zealand,NZ,49.15,84.74,89.36,89.36,transpower.co.nz
+2023-04-22 00:00:00,New Zealand,New Zealand,NZ,35.92,70.31,91.53,91.53,Electricity Maps Estimation; transpower.co.nz
+2023-04-23 00:00:00,New Zealand,New Zealand,NZ,36.49,69.81,91.30,91.30,Electricity Maps Estimation; transpower.co.nz
+2023-04-24 00:00:00,New Zealand,New Zealand,NZ,40.15,74.05,90.99,90.99,Electricity Maps Estimation; transpower.co.nz
+2023-04-25 00:00:00,New Zealand,New Zealand,NZ,34.94,67.56,91.68,91.68,Electricity Maps Estimation; transpower.co.nz
+2023-04-26 00:00:00,New Zealand,New Zealand,NZ,49.17,84.41,89.36,89.36,Electricity Maps Estimation; transpower.co.nz
+2023-04-27 00:00:00,New Zealand,New Zealand,NZ,53.23,89.19,88.60,88.60,Electricity Maps Estimation; transpower.co.nz
+2023-04-28 00:00:00,New Zealand,New Zealand,NZ,47.84,83.35,89.47,89.47,Electricity Maps Estimation; transpower.co.nz
+2023-04-29 00:00:00,New Zealand,New Zealand,NZ,47.47,83.00,89.51,89.51,Electricity Maps Estimation; transpower.co.nz
+2023-04-30 00:00:00,New Zealand,New Zealand,NZ,56.85,94.27,87.05,87.05,Electricity Maps Estimation; transpower.co.nz
+2023-05-01 00:00:00,New Zealand,New Zealand,NZ,60.67,99.22,85.87,85.87,Electricity Maps Estimation; transpower.co.nz
+2023-05-02 00:00:00,New Zealand,New Zealand,NZ,53.45,90.25,87.74,87.74,Electricity Maps Estimation; transpower.co.nz
+2023-05-03 00:00:00,New Zealand,New Zealand,NZ,50.49,86.51,88.55,88.55,Electricity Maps Estimation; transpower.co.nz
+2023-05-04 00:00:00,New Zealand,New Zealand,NZ,45.91,81.81,89.34,89.34,transpower.co.nz
+2023-05-05 00:00:00,New Zealand,New Zealand,NZ,36.53,70.24,91.46,91.46,transpower.co.nz
+2023-05-06 00:00:00,New Zealand,New Zealand,NZ,35.40,69.88,91.47,91.47,Electricity Maps Estimation; transpower.co.nz
+2023-05-07 00:00:00,New Zealand,New Zealand,NZ,41.77,77.01,90.41,90.41,Electricity Maps Estimation; transpower.co.nz
+2023-05-08 00:00:00,New Zealand,New Zealand,NZ,40.23,74.06,91.12,91.12,Electricity Maps Estimation; transpower.co.nz
+2023-05-09 00:00:00,New Zealand,New Zealand,NZ,35.58,68.83,91.64,91.64,Electricity Maps Estimation; transpower.co.nz
+2023-05-10 00:00:00,New Zealand,New Zealand,NZ,41.07,72.93,91.60,91.60,Electricity Maps Estimation; transpower.co.nz
+2023-05-11 00:00:00,New Zealand,New Zealand,NZ,57.57,92.47,88.56,88.56,Electricity Maps Estimation; transpower.co.nz
+2023-05-12 00:00:00,New Zealand,New Zealand,NZ,37.88,71.54,91.75,91.75,Electricity Maps Estimation; transpower.co.nz
+2023-05-13 00:00:00,New Zealand,New Zealand,NZ,28.76,61.23,93.36,93.36,Electricity Maps Estimation; transpower.co.nz
+2023-05-14 00:00:00,New Zealand,New Zealand,NZ,34.01,66.70,92.37,92.37,transpower.co.nz
+2023-05-15 00:00:00,New Zealand,New Zealand,NZ,49.79,83.60,90.37,90.37,Electricity Maps Estimation; transpower.co.nz
+2023-05-16 00:00:00,New Zealand,New Zealand,NZ,46.29,79.38,90.96,90.96,Electricity Maps Estimation; transpower.co.nz
+2023-05-17 00:00:00,New Zealand,New Zealand,NZ,43.35,75.75,91.42,91.42,Electricity Maps Estimation; transpower.co.nz
+2023-05-18 00:00:00,New Zealand,New Zealand,NZ,39.09,71.49,92.05,92.05,Electricity Maps Estimation; transpower.co.nz
+2023-05-19 00:00:00,New Zealand,New Zealand,NZ,27.41,58.27,94.36,94.36,Electricity Maps Estimation; transpower.co.nz
+2023-05-20 00:00:00,New Zealand,New Zealand,NZ,29.35,57.77,95.38,95.38,transpower.co.nz
+2023-05-21 00:00:00,New Zealand,New Zealand,NZ,31.91,61.50,94.19,94.19,transpower.co.nz
+2023-05-22 00:00:00,New Zealand,New Zealand,NZ,36.20,68.61,92.37,92.37,Electricity Maps Estimation; transpower.co.nz
+2023-05-23 00:00:00,New Zealand,New Zealand,NZ,37.13,69.37,92.27,92.27,Electricity Maps Estimation; transpower.co.nz
+2023-05-24 00:00:00,New Zealand,New Zealand,NZ,44.42,76.87,91.40,91.40,Electricity Maps Estimation; transpower.co.nz
+2023-05-25 00:00:00,New Zealand,New Zealand,NZ,35.15,66.38,92.92,92.92,Electricity Maps Estimation; transpower.co.nz
+2023-05-26 00:00:00,New Zealand,New Zealand,NZ,24.93,54.71,94.74,94.74,Electricity Maps Estimation; transpower.co.nz
+2023-05-27 00:00:00,New Zealand,New Zealand,NZ,25.21,56.55,94.22,94.22,Electricity Maps Estimation; transpower.co.nz
+2023-05-28 00:00:00,New Zealand,New Zealand,NZ,25.72,57.09,94.10,94.10,Electricity Maps Estimation; transpower.co.nz
+2023-05-29 00:00:00,New Zealand,New Zealand,NZ,28.19,58.67,94.13,94.13,Electricity Maps Estimation; transpower.co.nz
+2023-05-30 00:00:00,New Zealand,New Zealand,NZ,30.85,60.77,94.07,94.07,Electricity Maps Estimation; transpower.co.nz
+2023-05-31 00:00:00,New Zealand,New Zealand,NZ,36.04,65.44,93.94,93.94,Electricity Maps Estimation; transpower.co.nz
+2023-06-01 00:00:00,New Zealand,New Zealand,NZ,23.61,53.32,94.66,94.66,Electricity Maps Estimation; transpower.co.nz
+2023-06-02 00:00:00,New Zealand,New Zealand,NZ,26.11,55.84,94.69,94.69,Electricity Maps Estimation; transpower.co.nz
+2023-06-03 00:00:00,New Zealand,New Zealand,NZ,36.31,65.72,94.36,94.36,Electricity Maps Estimation; transpower.co.nz
+2023-06-04 00:00:00,New Zealand,New Zealand,NZ,21.70,51.32,95.41,95.41,Electricity Maps Estimation; transpower.co.nz
+2023-06-05 00:00:00,New Zealand,New Zealand,NZ,23.45,53.18,94.58,94.58,Electricity Maps Estimation; transpower.co.nz
+2023-06-06 00:00:00,New Zealand,New Zealand,NZ,32.76,63.82,92.83,92.83,Electricity Maps Estimation; transpower.co.nz
+2023-06-07 00:00:00,New Zealand,New Zealand,NZ,34.97,66.39,92.70,92.70,Electricity Maps Estimation; transpower.co.nz
+2023-06-08 00:00:00,New Zealand,New Zealand,NZ,34.42,66.29,92.65,92.65,Electricity Maps Estimation; transpower.co.nz
+2023-06-09 00:00:00,New Zealand,New Zealand,NZ,26.68,57.49,94.35,94.35,transpower.co.nz
+2023-06-10 00:00:00,New Zealand,New Zealand,NZ,22.29,53.56,94.76,94.76,Electricity Maps Estimation; transpower.co.nz
+2023-06-11 00:00:00,New Zealand,New Zealand,NZ,34.08,66.27,92.58,92.58,transpower.co.nz
+2023-06-12 00:00:00,New Zealand,New Zealand,NZ,45.19,78.22,90.89,90.89,Electricity Maps Estimation; transpower.co.nz
+2023-06-13 00:00:00,New Zealand,New Zealand,NZ,50.29,84.01,90.04,90.04,Electricity Maps Estimation; transpower.co.nz
+2023-06-14 00:00:00,New Zealand,New Zealand,NZ,59.74,96.07,87.59,87.59,Electricity Maps Estimation; transpower.co.nz
+2023-06-15 00:00:00,New Zealand,New Zealand,NZ,52.50,87.17,89.14,89.14,Electricity Maps Estimation; transpower.co.nz
+2023-06-16 00:00:00,New Zealand,New Zealand,NZ,42.34,74.77,91.53,91.53,Electricity Maps Estimation; transpower.co.nz
+2023-06-17 00:00:00,New Zealand,New Zealand,NZ,26.00,57.37,93.63,93.63,Electricity Maps Estimation; transpower.co.nz
+2023-06-18 00:00:00,New Zealand,New Zealand,NZ,34.33,66.13,92.89,92.89,transpower.co.nz
+2023-06-19 00:00:00,New Zealand,New Zealand,NZ,45.51,79.97,90.23,90.23,Electricity Maps Estimation; transpower.co.nz
+2023-06-20 00:00:00,New Zealand,New Zealand,NZ,44.85,79.41,90.26,90.26,Electricity Maps Estimation; transpower.co.nz
+2023-06-21 00:00:00,New Zealand,New Zealand,NZ,34.38,66.33,92.41,92.41,transpower.co.nz
+2023-06-22 00:00:00,New Zealand,New Zealand,NZ,32.23,64.89,91.93,91.93,Electricity Maps Estimation; transpower.co.nz
+2023-06-23 00:00:00,New Zealand,New Zealand,NZ,32.75,65.94,91.85,91.85,transpower.co.nz
+2023-06-24 00:00:00,New Zealand,New Zealand,NZ,33.29,66.81,91.90,91.90,Electricity Maps Estimation; transpower.co.nz
+2023-06-25 00:00:00,New Zealand,New Zealand,NZ,43.45,78.57,90.13,90.13,transpower.co.nz
+2023-06-26 00:00:00,New Zealand,New Zealand,NZ,51.22,87.71,88.41,88.41,Electricity Maps Estimation; transpower.co.nz
+2023-06-27 00:00:00,New Zealand,New Zealand,NZ,56.66,94.52,87.00,87.00,Electricity Maps Estimation; transpower.co.nz
+2023-06-28 00:00:00,New Zealand,New Zealand,NZ,41.92,76.63,90.09,90.09,Electricity Maps Estimation; transpower.co.nz
+2023-06-29 00:00:00,New Zealand,New Zealand,NZ,36.41,69.76,91.49,91.49,Electricity Maps Estimation; transpower.co.nz
+2023-06-30 00:00:00,New Zealand,New Zealand,NZ,52.75,84.73,90.51,90.51,Electricity Maps Estimation; transpower.co.nz
+2023-07-01 00:00:00,New Zealand,New Zealand,NZ,51.06,82.56,90.80,90.80,Electricity Maps Estimation; transpower.co.nz
+2023-07-02 00:00:00,New Zealand,New Zealand,NZ,64.85,98.12,88.61,88.61,transpower.co.nz
+2023-07-03 00:00:00,New Zealand,New Zealand,NZ,78.22,113.68,85.78,85.78,transpower.co.nz
+2023-07-04 00:00:00,New Zealand,New Zealand,NZ,66.01,98.39,88.60,88.60,Electricity Maps Estimation; transpower.co.nz
+2023-07-05 00:00:00,New Zealand,New Zealand,NZ,76.37,111.64,86.12,86.12,Electricity Maps Estimation; transpower.co.nz
+2023-07-06 00:00:00,New Zealand,New Zealand,NZ,90.22,127.63,83.71,83.71,Electricity Maps Estimation; transpower.co.nz
+2023-07-07 00:00:00,New Zealand,New Zealand,NZ,87.29,123.98,84.18,84.18,Electricity Maps Estimation; transpower.co.nz
+2023-07-08 00:00:00,New Zealand,New Zealand,NZ,78.85,115.26,85.72,85.72,Electricity Maps Estimation; transpower.co.nz
+2023-07-09 00:00:00,New Zealand,New Zealand,NZ,83.63,121.52,84.27,84.27,Electricity Maps Estimation; transpower.co.nz
+2023-07-10 00:00:00,New Zealand,New Zealand,NZ,79.93,116.85,85.06,85.06,Electricity Maps Estimation; transpower.co.nz
+2023-07-11 00:00:00,New Zealand,New Zealand,NZ,81.40,117.70,84.82,84.82,Electricity Maps Estimation; transpower.co.nz
+2023-07-12 00:00:00,New Zealand,New Zealand,NZ,78.68,114.24,85.50,85.50,Electricity Maps Estimation; transpower.co.nz
+2023-07-13 00:00:00,New Zealand,New Zealand,NZ,66.91,101.11,87.49,87.49,Electricity Maps Estimation; transpower.co.nz
+2023-07-14 00:00:00,New Zealand,New Zealand,NZ,63.97,97.76,88.50,88.50,Electricity Maps Estimation; transpower.co.nz
+2023-07-15 00:00:00,New Zealand,New Zealand,NZ,63.66,96.95,88.64,88.64,Electricity Maps Estimation; transpower.co.nz
+2023-07-16 00:00:00,New Zealand,New Zealand,NZ,74.74,110.11,86.32,86.32,Electricity Maps Estimation; transpower.co.nz
+2023-07-17 00:00:00,New Zealand,New Zealand,NZ,78.88,114.40,85.68,85.68,Electricity Maps Estimation; transpower.co.nz
+2023-07-18 00:00:00,New Zealand,New Zealand,NZ,78.47,112.98,86.12,86.12,Electricity Maps Estimation; transpower.co.nz
+2023-07-19 00:00:00,New Zealand,New Zealand,NZ,89.02,125.92,83.97,83.97,Electricity Maps Estimation; transpower.co.nz
+2023-07-20 00:00:00,New Zealand,New Zealand,NZ,87.24,123.88,83.98,83.98,Electricity Maps Estimation; transpower.co.nz
+2023-07-21 00:00:00,New Zealand,New Zealand,NZ,87.04,123.59,84.09,84.09,Electricity Maps Estimation; transpower.co.nz
+2023-07-22 00:00:00,New Zealand,New Zealand,NZ,98.50,138.59,81.51,81.51,Electricity Maps Estimation; transpower.co.nz
+2023-07-23 00:00:00,New Zealand,New Zealand,NZ,96.82,136.37,81.83,81.83,Electricity Maps Estimation; transpower.co.nz
+2023-07-24 00:00:00,New Zealand,New Zealand,NZ,92.08,130.32,83.02,83.02,Electricity Maps Estimation; transpower.co.nz
+2023-07-25 00:00:00,New Zealand,New Zealand,NZ,87.95,124.07,84.28,84.28,Electricity Maps Estimation; transpower.co.nz
+2023-07-26 00:00:00,New Zealand,New Zealand,NZ,99.01,136.29,82.56,82.56,Electricity Maps Estimation; transpower.co.nz
+2023-07-27 00:00:00,New Zealand,New Zealand,NZ,103.29,140.72,82.15,82.15,Electricity Maps Estimation; transpower.co.nz
+2023-07-28 00:00:00,New Zealand,New Zealand,NZ,104.12,142.91,81.71,81.71,Electricity Maps Estimation; transpower.co.nz
+2023-07-29 00:00:00,New Zealand,New Zealand,NZ,106.16,146.16,80.99,80.99,Electricity Maps Estimation; transpower.co.nz
+2023-07-30 00:00:00,New Zealand,New Zealand,NZ,96.11,134.48,82.60,82.60,transpower.co.nz
+2023-07-31 00:00:00,New Zealand,New Zealand,NZ,81.65,117.04,85.26,85.26,Electricity Maps Estimation; transpower.co.nz
+2023-08-01 00:00:00,New Zealand,New Zealand,NZ,75.18,109.80,86.33,86.33,transpower.co.nz
+2023-08-02 00:00:00,New Zealand,New Zealand,NZ,104.23,142.51,81.53,81.53,Electricity Maps Estimation; transpower.co.nz
+2023-08-03 00:00:00,New Zealand,New Zealand,NZ,110.09,149.46,80.53,80.53,Electricity Maps Estimation; transpower.co.nz
+2023-08-04 00:00:00,New Zealand,New Zealand,NZ,87.32,123.39,84.83,84.83,transpower.co.nz
+2023-08-05 00:00:00,New Zealand,New Zealand,NZ,85.62,122.96,84.65,84.65,Electricity Maps Estimation; transpower.co.nz
+2023-08-06 00:00:00,New Zealand,New Zealand,NZ,79.92,115.30,85.93,85.93,Electricity Maps Estimation; transpower.co.nz
+2023-08-07 00:00:00,New Zealand,New Zealand,NZ,84.83,120.25,85.32,85.32,Electricity Maps Estimation; transpower.co.nz
+2023-08-08 00:00:00,New Zealand,New Zealand,NZ,74.31,115.04,83.23,83.23,Electricity Maps Estimation; transpower.co.nz
+2023-08-09 00:00:00,New Zealand,New Zealand,NZ,94.50,132.57,82.86,82.86,Electricity Maps Estimation; transpower.co.nz
+2023-08-10 00:00:00,New Zealand,New Zealand,NZ,101.10,139.43,81.88,81.88,Electricity Maps Estimation; transpower.co.nz
+2023-08-11 00:00:00,New Zealand,New Zealand,NZ,96.90,134.98,82.77,82.77,Electricity Maps Estimation; transpower.co.nz
+2023-08-12 00:00:00,New Zealand,New Zealand,NZ,82.15,118.51,85.07,85.07,Electricity Maps Estimation; transpower.co.nz
+2023-08-13 00:00:00,New Zealand,New Zealand,NZ,77.30,112.50,86.10,86.10,Electricity Maps Estimation; transpower.co.nz
+2023-08-14 00:00:00,New Zealand,New Zealand,NZ,92.93,129.64,83.72,83.72,Electricity Maps Estimation; transpower.co.nz
+2023-08-15 00:00:00,New Zealand,New Zealand,NZ,90.61,127.03,84.04,84.04,Electricity Maps Estimation; transpower.co.nz
+2023-08-16 00:00:00,New Zealand,New Zealand,NZ,104.46,142.89,81.72,81.72,Electricity Maps Estimation; transpower.co.nz
+2023-08-17 00:00:00,New Zealand,New Zealand,NZ,100.17,138.12,82.56,82.56,Electricity Maps Estimation; transpower.co.nz
+2023-08-18 00:00:00,New Zealand,New Zealand,NZ,91.64,128.27,83.93,83.93,Electricity Maps Estimation; transpower.co.nz
+2023-08-19 00:00:00,New Zealand,New Zealand,NZ,88.53,125.63,84.00,84.00,Electricity Maps Estimation; transpower.co.nz
+2023-08-20 00:00:00,New Zealand,New Zealand,NZ,74.62,109.88,86.53,86.53,transpower.co.nz
+2023-08-21 00:00:00,New Zealand,New Zealand,NZ,80.12,116.67,85.10,85.10,Electricity Maps Estimation; transpower.co.nz
+2023-08-22 00:00:00,New Zealand,New Zealand,NZ,104.69,144.35,81.17,81.17,Electricity Maps Estimation; transpower.co.nz
+2023-08-23 00:00:00,New Zealand,New Zealand,NZ,108.95,149.18,80.43,80.43,Electricity Maps Estimation; transpower.co.nz
+2023-08-24 00:00:00,New Zealand,New Zealand,NZ,115.63,156.11,79.45,79.45,Electricity Maps Estimation; transpower.co.nz
+2023-08-25 00:00:00,New Zealand,New Zealand,NZ,115.47,156.11,79.61,79.61,Electricity Maps Estimation; transpower.co.nz
+2023-08-26 00:00:00,New Zealand,New Zealand,NZ,100.69,138.70,82.28,82.28,Electricity Maps Estimation; transpower.co.nz
+2023-08-27 00:00:00,New Zealand,New Zealand,NZ,107.62,146.53,80.94,80.94,Electricity Maps Estimation; transpower.co.nz
+2023-08-28 00:00:00,New Zealand,New Zealand,NZ,123.20,163.88,78.49,78.49,Electricity Maps Estimation; transpower.co.nz
+2023-08-29 00:00:00,New Zealand,New Zealand,NZ,126.19,167.85,77.67,77.67,Electricity Maps Estimation; transpower.co.nz
+2023-08-30 00:00:00,New Zealand,New Zealand,NZ,116.26,156.69,79.05,79.05,Electricity Maps Estimation; transpower.co.nz
+2023-08-31 00:00:00,New Zealand,New Zealand,NZ,112.03,151.71,79.75,79.75,Electricity Maps Estimation; transpower.co.nz
+2023-09-01 00:00:00,New Zealand,New Zealand,NZ,114.05,153.87,79.76,79.76,transpower.co.nz
+2023-09-02 00:00:00,New Zealand,New Zealand,NZ,110.71,149.56,80.95,80.95,Electricity Maps Estimation; transpower.co.nz
+2023-09-03 00:00:00,New Zealand,New Zealand,NZ,116.09,155.09,80.12,80.12,Electricity Maps Estimation; transpower.co.nz
+2023-09-04 00:00:00,New Zealand,New Zealand,NZ,123.95,163.85,78.69,78.69,Electricity Maps Estimation; transpower.co.nz
+2023-09-05 00:00:00,New Zealand,New Zealand,NZ,123.55,164.11,78.48,78.48,Electricity Maps Estimation; transpower.co.nz
+2023-09-06 00:00:00,New Zealand,New Zealand,NZ,108.75,146.82,81.13,81.13,Electricity Maps Estimation; transpower.co.nz
+2023-09-07 00:00:00,New Zealand,New Zealand,NZ,118.44,156.54,80.65,80.65,Electricity Maps Estimation; transpower.co.nz
+2023-09-08 00:00:00,New Zealand,New Zealand,NZ,110.67,148.05,81.96,81.96,Electricity Maps Estimation; transpower.co.nz
+2023-09-09 00:00:00,New Zealand,New Zealand,NZ,108.79,146.24,82.43,82.43,Electricity Maps Estimation; transpower.co.nz
+2023-09-10 00:00:00,New Zealand,New Zealand,NZ,108.88,147.34,81.25,81.25,Electricity Maps Estimation; transpower.co.nz
+2023-09-11 00:00:00,New Zealand,New Zealand,NZ,102.71,138.37,83.02,83.02,Electricity Maps Estimation; transpower.co.nz
+2023-09-12 00:00:00,New Zealand,New Zealand,NZ,104.55,140.01,82.65,82.65,Electricity Maps Estimation; transpower.co.nz
+2023-09-13 00:00:00,New Zealand,New Zealand,NZ,110.23,146.15,81.75,81.75,Electricity Maps Estimation; transpower.co.nz
+2023-09-14 00:00:00,New Zealand,New Zealand,NZ,109.88,145.87,81.83,81.83,Electricity Maps Estimation; transpower.co.nz
+2023-09-15 00:00:00,New Zealand,New Zealand,NZ,113.92,151.95,80.76,80.76,Electricity Maps Estimation; transpower.co.nz
+2023-09-16 00:00:00,New Zealand,New Zealand,NZ,91.39,125.99,84.73,84.73,Electricity Maps Estimation; transpower.co.nz
+2023-09-17 00:00:00,New Zealand,New Zealand,NZ,81.36,113.82,87.28,87.28,Electricity Maps Estimation; transpower.co.nz
+2023-09-18 00:00:00,New Zealand,New Zealand,NZ,79.36,111.90,87.25,87.25,Electricity Maps Estimation; transpower.co.nz
+2023-09-19 00:00:00,New Zealand,New Zealand,NZ,84.72,118.84,85.61,85.61,transpower.co.nz
+2023-09-20 00:00:00,New Zealand,New Zealand,NZ,79.18,112.54,87.05,87.05,Electricity Maps Estimation; transpower.co.nz
+2023-09-21 00:00:00,New Zealand,New Zealand,NZ,74.23,107.41,88.01,88.01,Electricity Maps Estimation; transpower.co.nz
+2023-09-22 00:00:00,New Zealand,New Zealand,NZ,64.95,97.38,89.36,89.36,Electricity Maps Estimation; transpower.co.nz
+2023-09-23 00:00:00,New Zealand,New Zealand,NZ,62.58,95.72,89.52,89.52,Electricity Maps Estimation; transpower.co.nz
+2023-09-24 00:00:00,New Zealand,New Zealand,NZ,66.92,99.18,88.69,88.69,transpower.co.nz
+2023-09-25 00:00:00,New Zealand,New Zealand,NZ,66.76,98.64,88.82,88.82,Electricity Maps Estimation; transpower.co.nz
+2023-09-26 00:00:00,New Zealand,New Zealand,NZ,77.24,110.97,87.06,87.06,Electricity Maps Estimation; transpower.co.nz
+2023-09-27 00:00:00,New Zealand,New Zealand,NZ,88.04,122.93,85.29,85.29,Electricity Maps Estimation; transpower.co.nz
+2023-09-28 00:00:00,New Zealand,New Zealand,NZ,64.51,97.77,88.51,88.51,Electricity Maps Estimation; transpower.co.nz
+2023-09-29 00:00:00,New Zealand,New Zealand,NZ,62.47,95.24,88.84,88.84,Electricity Maps Estimation; transpower.co.nz
+2023-09-30 00:00:00,New Zealand,New Zealand,NZ,62.76,95.62,89.11,89.11,Electricity Maps Estimation; transpower.co.nz
+2023-10-01 00:00:00,New Zealand,New Zealand,NZ,56.87,88.40,90.14,90.14,Electricity Maps Estimation; transpower.co.nz
+2023-10-02 00:00:00,New Zealand,New Zealand,NZ,60.04,91.95,89.73,89.73,Electricity Maps Estimation; transpower.co.nz
+2023-10-03 00:00:00,New Zealand,New Zealand,NZ,61.08,94.12,89.40,89.40,transpower.co.nz
+2023-10-04 00:00:00,New Zealand,New Zealand,NZ,50.25,82.31,90.82,90.82,Electricity Maps Estimation; transpower.co.nz
+2023-10-05 00:00:00,New Zealand,New Zealand,NZ,46.48,79.60,91.14,91.14,Electricity Maps Estimation; transpower.co.nz
+2023-10-06 00:00:00,New Zealand,New Zealand,NZ,39.44,70.68,92.64,92.64,Electricity Maps Estimation; transpower.co.nz
+2023-10-07 00:00:00,New Zealand,New Zealand,NZ,44.04,75.18,92.47,92.47,Electricity Maps Estimation; transpower.co.nz
+2023-10-08 00:00:00,New Zealand,New Zealand,NZ,49.28,81.10,91.62,91.62,Electricity Maps Estimation; transpower.co.nz
+2023-10-09 00:00:00,New Zealand,New Zealand,NZ,38.45,68.00,93.28,93.28,Electricity Maps Estimation; transpower.co.nz
+2023-10-10 00:00:00,New Zealand,New Zealand,NZ,53.85,85.72,90.86,90.86,Electricity Maps Estimation; transpower.co.nz
+2023-10-11 00:00:00,New Zealand,New Zealand,NZ,37.99,67.33,93.36,93.36,Electricity Maps Estimation; transpower.co.nz
+2023-10-12 00:00:00,New Zealand,New Zealand,NZ,41.91,72.37,92.50,92.50,Electricity Maps Estimation; transpower.co.nz
+2023-10-13 00:00:00,New Zealand,New Zealand,NZ,45.79,76.04,92.20,92.20,Electricity Maps Estimation; transpower.co.nz
+2023-10-14 00:00:00,New Zealand,New Zealand,NZ,43.18,72.53,93.18,93.18,transpower.co.nz
+2023-10-15 00:00:00,New Zealand,New Zealand,NZ,39.64,69.31,93.45,93.45,transpower.co.nz
+2023-10-16 00:00:00,New Zealand,New Zealand,NZ,42.95,73.38,92.62,92.62,Electricity Maps Estimation; transpower.co.nz
+2023-10-17 00:00:00,New Zealand,New Zealand,NZ,58.56,90.81,90.31,90.31,Electricity Maps Estimation; transpower.co.nz
+2023-10-18 00:00:00,New Zealand,New Zealand,NZ,48.51,79.38,92.36,92.36,transpower.co.nz
+2023-10-19 00:00:00,New Zealand,New Zealand,NZ,35.13,63.83,94.71,94.71,Electricity Maps Estimation; transpower.co.nz
+2023-10-20 00:00:00,New Zealand,New Zealand,NZ,42.03,72.74,93.67,93.67,Electricity Maps Estimation; transpower.co.nz
+2023-10-21 00:00:00,New Zealand,New Zealand,NZ,39.31,69.54,94.13,94.13,Electricity Maps Estimation; transpower.co.nz
+2023-10-22 00:00:00,New Zealand,New Zealand,NZ,41.82,72.62,93.56,93.56,Electricity Maps Estimation; transpower.co.nz
+2023-10-23 00:00:00,New Zealand,New Zealand,NZ,50.63,82.71,91.65,91.65,Electricity Maps Estimation; transpower.co.nz
+2023-10-24 00:00:00,New Zealand,New Zealand,NZ,46.46,76.57,92.57,92.57,transpower.co.nz
+2023-10-25 00:00:00,New Zealand,New Zealand,NZ,40.03,68.43,94.03,94.03,Electricity Maps Estimation; transpower.co.nz
+2023-10-26 00:00:00,New Zealand,New Zealand,NZ,40.87,69.41,93.75,93.75,Electricity Maps Estimation; transpower.co.nz
+2023-10-27 00:00:00,New Zealand,New Zealand,NZ,44.11,74.95,92.80,92.80,Electricity Maps Estimation; transpower.co.nz
+2023-10-28 00:00:00,New Zealand,New Zealand,NZ,47.04,78.10,92.78,92.78,Electricity Maps Estimation; transpower.co.nz
+2023-10-29 00:00:00,New Zealand,New Zealand,NZ,45.59,75.66,92.68,92.68,Electricity Maps Estimation; transpower.co.nz
+2023-10-30 00:00:00,New Zealand,New Zealand,NZ,54.96,87.12,90.21,90.21,Electricity Maps Estimation; transpower.co.nz
+2023-10-31 00:00:00,New Zealand,New Zealand,NZ,59.20,91.68,90.20,90.20,Electricity Maps Estimation; transpower.co.nz
+2023-11-01 00:00:00,New Zealand,New Zealand,NZ,50.40,81.20,91.90,91.90,Electricity Maps Estimation; transpower.co.nz
+2023-11-02 00:00:00,New Zealand,New Zealand,NZ,46.81,78.20,92.28,92.28,Electricity Maps Estimation; transpower.co.nz
+2023-11-03 00:00:00,New Zealand,New Zealand,NZ,41.46,71.26,93.43,93.43,Electricity Maps Estimation; transpower.co.nz
+2023-11-04 00:00:00,New Zealand,New Zealand,NZ,34.31,63.12,95.12,95.12,Electricity Maps Estimation; transpower.co.nz
+2023-11-05 00:00:00,New Zealand,New Zealand,NZ,35.38,64.93,94.56,94.56,Electricity Maps Estimation; transpower.co.nz
+2023-11-06 00:00:00,New Zealand,New Zealand,NZ,31.50,59.49,95.29,95.29,Electricity Maps Estimation; transpower.co.nz
+2023-11-07 00:00:00,New Zealand,New Zealand,NZ,41.50,70.34,93.74,93.74,Electricity Maps Estimation; transpower.co.nz
+2023-11-08 00:00:00,New Zealand,New Zealand,NZ,60.24,92.49,90.09,90.09,transpower.co.nz
+2023-11-09 00:00:00,New Zealand,New Zealand,NZ,53.60,84.82,91.18,91.18,Electricity Maps Estimation; transpower.co.nz
+2023-11-10 00:00:00,New Zealand,New Zealand,NZ,48.85,80.36,91.91,91.91,Electricity Maps Estimation; transpower.co.nz
+2023-11-11 00:00:00,New Zealand,New Zealand,NZ,38.24,67.95,93.67,93.67,Electricity Maps Estimation; transpower.co.nz
+2023-11-12 00:00:00,New Zealand,New Zealand,NZ,36.65,64.85,94.20,94.20,Electricity Maps Estimation; transpower.co.nz
+2023-11-13 00:00:00,New Zealand,New Zealand,NZ,42.87,71.62,93.35,93.35,Electricity Maps Estimation; transpower.co.nz
+2023-11-14 00:00:00,New Zealand,New Zealand,NZ,43.11,72.12,93.17,93.17,Electricity Maps Estimation; transpower.co.nz
+2023-11-15 00:00:00,New Zealand,New Zealand,NZ,45.60,75.39,92.50,92.50,Electricity Maps Estimation; transpower.co.nz
+2023-11-16 00:00:00,New Zealand,New Zealand,NZ,48.57,78.90,92.03,92.03,Electricity Maps Estimation; transpower.co.nz
+2023-11-17 00:00:00,New Zealand,New Zealand,NZ,45.88,75.99,92.73,92.73,Electricity Maps Estimation; transpower.co.nz
+2023-11-18 00:00:00,New Zealand,New Zealand,NZ,46.49,77.51,92.76,92.76,Electricity Maps Estimation; transpower.co.nz
+2023-11-19 00:00:00,New Zealand,New Zealand,NZ,35.60,65.02,94.15,94.15,Electricity Maps Estimation; transpower.co.nz
+2023-11-20 00:00:00,New Zealand,New Zealand,NZ,52.16,82.91,91.61,91.61,Electricity Maps Estimation; transpower.co.nz
+2023-11-21 00:00:00,New Zealand,New Zealand,NZ,57.10,88.64,90.82,90.82,Electricity Maps Estimation; transpower.co.nz
+2023-11-22 00:00:00,New Zealand,New Zealand,NZ,56.86,89.10,90.34,90.34,Electricity Maps Estimation; transpower.co.nz
+2023-11-23 00:00:00,New Zealand,New Zealand,NZ,43.56,73.30,92.67,92.67,Electricity Maps Estimation; transpower.co.nz
+2023-11-24 00:00:00,New Zealand,New Zealand,NZ,49.66,80.43,91.70,91.70,Electricity Maps Estimation; transpower.co.nz
+2023-11-25 00:00:00,New Zealand,New Zealand,NZ,52.32,83.80,91.22,91.22,Electricity Maps Estimation; transpower.co.nz
+2023-11-26 00:00:00,New Zealand,New Zealand,NZ,63.36,95.14,90.26,90.26,Electricity Maps Estimation; transpower.co.nz
+2023-11-27 00:00:00,New Zealand,New Zealand,NZ,65.98,96.08,90.13,90.13,Electricity Maps Estimation; transpower.co.nz
+2023-11-28 00:00:00,New Zealand,New Zealand,NZ,68.97,99.55,89.58,89.58,Electricity Maps Estimation; transpower.co.nz
+2023-11-29 00:00:00,New Zealand,New Zealand,NZ,78.27,111.17,88.18,88.18,Electricity Maps Estimation; transpower.co.nz
+2023-11-30 00:00:00,New Zealand,New Zealand,NZ,76.91,109.65,88.38,88.38,Electricity Maps Estimation; transpower.co.nz
+2023-12-01 00:00:00,New Zealand,New Zealand,NZ,73.64,106.39,88.77,88.77,Electricity Maps Estimation; transpower.co.nz
+2023-12-02 00:00:00,New Zealand,New Zealand,NZ,61.66,93.94,90.33,90.33,Electricity Maps Estimation; transpower.co.nz
+2023-12-03 00:00:00,New Zealand,New Zealand,NZ,69.44,101.69,89.31,89.31,Electricity Maps Estimation; transpower.co.nz
+2023-12-04 00:00:00,New Zealand,New Zealand,NZ,69.01,100.38,89.54,89.54,Electricity Maps Estimation; transpower.co.nz
+2023-12-05 00:00:00,New Zealand,New Zealand,NZ,78.87,111.87,87.84,87.84,Electricity Maps Estimation; transpower.co.nz
+2023-12-06 00:00:00,New Zealand,New Zealand,NZ,73.52,104.90,88.72,88.72,Electricity Maps Estimation; transpower.co.nz
+2023-12-07 00:00:00,New Zealand,New Zealand,NZ,78.93,111.79,87.92,87.92,Electricity Maps Estimation; transpower.co.nz
+2023-12-08 00:00:00,New Zealand,New Zealand,NZ,81.86,114.88,87.55,87.55,Electricity Maps Estimation; transpower.co.nz
+2023-12-09 00:00:00,New Zealand,New Zealand,NZ,62.92,93.76,90.14,90.14,Electricity Maps Estimation; transpower.co.nz
+2023-12-10 00:00:00,New Zealand,New Zealand,NZ,77.77,110.42,88.04,88.04,Electricity Maps Estimation; transpower.co.nz
+2023-12-11 00:00:00,New Zealand,New Zealand,NZ,73.02,104.28,88.79,88.79,Electricity Maps Estimation; transpower.co.nz
+2023-12-12 00:00:00,New Zealand,New Zealand,NZ,65.61,97.25,89.68,89.68,Electricity Maps Estimation; transpower.co.nz
+2023-12-13 00:00:00,New Zealand,New Zealand,NZ,66.28,97.49,89.64,89.64,Electricity Maps Estimation; transpower.co.nz
+2023-12-14 00:00:00,New Zealand,New Zealand,NZ,71.89,103.83,88.70,88.70,Electricity Maps Estimation; transpower.co.nz
+2023-12-15 00:00:00,New Zealand,New Zealand,NZ,79.47,111.79,87.81,87.81,Electricity Maps Estimation; transpower.co.nz
+2023-12-16 00:00:00,New Zealand,New Zealand,NZ,73.74,106.20,88.44,88.44,Electricity Maps Estimation; transpower.co.nz
+2023-12-17 00:00:00,New Zealand,New Zealand,NZ,71.78,104.75,88.53,88.53,Electricity Maps Estimation; transpower.co.nz
+2023-12-18 00:00:00,New Zealand,New Zealand,NZ,91.71,127.77,85.04,85.04,Electricity Maps Estimation; transpower.co.nz
+2023-12-19 00:00:00,New Zealand,New Zealand,NZ,101.09,139.40,82.14,82.14,Electricity Maps Estimation; transpower.co.nz
+2023-12-20 00:00:00,New Zealand,New Zealand,NZ,97.80,135.22,82.53,82.53,Electricity Maps Estimation; transpower.co.nz
+2023-12-21 00:00:00,New Zealand,New Zealand,NZ,102.53,140.87,82.23,82.23,Electricity Maps Estimation; transpower.co.nz
+2023-12-22 00:00:00,New Zealand,New Zealand,NZ,108.22,148.16,81.05,81.05,Electricity Maps Estimation; transpower.co.nz
+2023-12-23 00:00:00,New Zealand,New Zealand,NZ,118.03,159.40,79.03,79.03,Electricity Maps Estimation; transpower.co.nz
+2023-12-24 00:00:00,New Zealand,New Zealand,NZ,88.95,126.07,83.96,83.96,Electricity Maps Estimation; transpower.co.nz
+2023-12-25 00:00:00,New Zealand,New Zealand,NZ,75.91,111.17,87.09,87.09,Electricity Maps Estimation; transpower.co.nz
+2023-12-26 00:00:00,New Zealand,New Zealand,NZ,66.16,100.89,88.16,88.16,Electricity Maps Estimation; transpower.co.nz
+2023-12-27 00:00:00,New Zealand,New Zealand,NZ,60.06,95.38,88.39,88.39,Electricity Maps Estimation; transpower.co.nz
+2023-12-28 00:00:00,New Zealand,New Zealand,NZ,70.51,105.75,87.60,87.60,Electricity Maps Estimation; transpower.co.nz
+2023-12-29 00:00:00,New Zealand,New Zealand,NZ,57.95,90.75,89.65,89.65,Electricity Maps Estimation; transpower.co.nz
+2023-12-30 00:00:00,New Zealand,New Zealand,NZ,61.53,94.66,89.12,89.12,Electricity Maps Estimation; transpower.co.nz
+2023-12-31 00:00:00,New Zealand,New Zealand,NZ,51.92,84.71,90.48,90.48,Electricity Maps Estimation; transpower.co.nz

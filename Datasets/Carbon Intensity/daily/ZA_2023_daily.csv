@@ -1,0 +1,366 @@
+Datetime (UTC),Country,Zone Name,Zone Id,Carbon Intensity gCO₂eq/kWh (direct),Carbon Intensity gCO₂eq/kWh (LCA),Low Carbon Percentage,Renewable Percentage,Data Source
+2023-01-01 00:00:00,South Africa,South Africa,ZA,625.98,676.59,22.59,18.20,eskom.co.za
+2023-01-02 00:00:00,South Africa,South Africa,ZA,614.25,665.64,21.37,16.73,eskom.co.za
+2023-01-03 00:00:00,South Africa,South Africa,ZA,609.66,660.58,22.53,18.10,eskom.co.za
+2023-01-04 00:00:00,South Africa,South Africa,ZA,608.12,664.29,20.83,16.55,eskom.co.za
+2023-01-05 00:00:00,South Africa,South Africa,ZA,593.83,649.24,22.77,18.51,eskom.co.za
+2023-01-06 00:00:00,South Africa,South Africa,ZA,590.57,647.44,22.87,18.54,eskom.co.za
+2023-01-07 00:00:00,South Africa,South Africa,ZA,621.43,673.59,21.10,16.73,eskom.co.za
+2023-01-08 00:00:00,South Africa,South Africa,ZA,630.84,685.18,19.22,14.79,eskom.co.za
+2023-01-09 00:00:00,South Africa,South Africa,ZA,624.99,684.12,18.25,14.07,eskom.co.za
+2023-01-10 00:00:00,South Africa,South Africa,ZA,635.14,693.98,17.73,13.66,eskom.co.za
+2023-01-11 00:00:00,South Africa,South Africa,ZA,638.59,703.58,15.47,11.26,eskom.co.za
+2023-01-12 00:00:00,South Africa,South Africa,ZA,625.39,679.75,19.88,15.72,eskom.co.za
+2023-01-13 00:00:00,South Africa,South Africa,ZA,630.26,683.28,18.77,14.46,eskom.co.za
+2023-01-14 00:00:00,South Africa,South Africa,ZA,627.76,680.53,19.29,14.85,eskom.co.za
+2023-01-15 00:00:00,South Africa,South Africa,ZA,615.61,667.42,21.74,17.33,eskom.co.za
+2023-01-16 00:00:00,South Africa,South Africa,ZA,613.40,667.82,20.78,16.55,eskom.co.za
+2023-01-17 00:00:00,South Africa,South Africa,ZA,625.18,684.62,17.88,13.81,eskom.co.za
+2023-01-18 00:00:00,South Africa,South Africa,ZA,634.47,692.89,16.96,12.90,eskom.co.za
+2023-01-19 00:00:00,South Africa,South Africa,ZA,629.75,689.49,17.40,13.45,eskom.co.za
+2023-01-20 00:00:00,South Africa,South Africa,ZA,644.45,705.96,14.92,10.85,eskom.co.za
+2023-01-21 00:00:00,South Africa,South Africa,ZA,654.45,712.58,15.53,11.48,eskom.co.za
+2023-01-22 00:00:00,South Africa,South Africa,ZA,648.48,704.12,16.95,12.95,eskom.co.za
+2023-01-23 00:00:00,South Africa,South Africa,ZA,631.63,694.82,16.64,12.76,eskom.co.za
+2023-01-24 00:00:00,South Africa,South Africa,ZA,624.01,682.08,18.41,14.45,eskom.co.za
+2023-01-25 00:00:00,South Africa,South Africa,ZA,628.96,690.37,17.39,13.43,eskom.co.za
+2023-01-26 00:00:00,South Africa,South Africa,ZA,648.52,702.87,16.58,12.50,eskom.co.za
+2023-01-27 00:00:00,South Africa,South Africa,ZA,638.71,697.72,16.37,12.27,eskom.co.za
+2023-01-28 00:00:00,South Africa,South Africa,ZA,620.59,675.54,19.84,15.74,eskom.co.za
+2023-01-29 00:00:00,South Africa,South Africa,ZA,605.63,661.98,21.46,17.32,eskom.co.za
+2023-01-30 00:00:00,South Africa,South Africa,ZA,608.03,668.22,19.05,14.86,eskom.co.za
+2023-01-31 00:00:00,South Africa,South Africa,ZA,618.85,682.96,17.24,13.05,eskom.co.za
+2023-02-01 00:00:00,South Africa,South Africa,ZA,625.49,680.27,19.26,15.15,eskom.co.za
+2023-02-02 00:00:00,South Africa,South Africa,ZA,639.96,694.36,17.83,13.69,eskom.co.za
+2023-02-03 00:00:00,South Africa,South Africa,ZA,643.87,697.41,17.79,13.78,eskom.co.za
+2023-02-04 00:00:00,South Africa,South Africa,ZA,637.64,689.87,19.17,15.13,eskom.co.za
+2023-02-05 00:00:00,South Africa,South Africa,ZA,640.12,692.66,18.29,14.24,eskom.co.za
+2023-02-06 00:00:00,South Africa,South Africa,ZA,645.57,704.10,15.32,11.23,eskom.co.za
+2023-02-07 00:00:00,South Africa,South Africa,ZA,648.95,708.93,15.11,11.10,eskom.co.za
+2023-02-08 00:00:00,South Africa,South Africa,ZA,648.38,703.78,16.74,12.81,eskom.co.za
+2023-02-09 00:00:00,South Africa,South Africa,ZA,647.13,701.96,16.94,13.01,eskom.co.za
+2023-02-10 00:00:00,South Africa,South Africa,ZA,626.97,684.52,18.54,14.62,eskom.co.za
+2023-02-11 00:00:00,South Africa,South Africa,ZA,639.09,697.22,17.25,13.17,eskom.co.za
+2023-02-12 00:00:00,South Africa,South Africa,ZA,643.01,697.79,17.45,13.29,eskom.co.za
+2023-02-13 00:00:00,South Africa,South Africa,ZA,633.11,694.22,16.51,12.51,eskom.co.za
+2023-02-14 00:00:00,South Africa,South Africa,ZA,637.19,698.38,15.72,11.70,eskom.co.za
+2023-02-15 00:00:00,South Africa,South Africa,ZA,636.50,694.39,16.89,12.89,eskom.co.za
+2023-02-16 00:00:00,South Africa,South Africa,ZA,625.11,677.50,19.76,15.79,eskom.co.za
+2023-02-17 00:00:00,South Africa,South Africa,ZA,628.05,687.60,17.01,13.42,eskom.co.za; Electricity Maps Estimation
+2023-02-18 00:00:00,South Africa,South Africa,ZA,624.64,688.47,17.46,14.44,eskom.co.za; Electricity Maps Estimation
+2023-02-19 00:00:00,South Africa,South Africa,ZA,606.69,669.94,19.89,15.61,eskom.co.za
+2023-02-20 00:00:00,South Africa,South Africa,ZA,576.07,636.15,23.13,18.84,eskom.co.za
+2023-02-21 00:00:00,South Africa,South Africa,ZA,607.11,674.08,17.33,12.83,eskom.co.za; Electricity Maps Estimation
+2023-02-22 00:00:00,South Africa,South Africa,ZA,644.27,703.72,16.13,11.93,eskom.co.za; Electricity Maps Estimation
+2023-02-23 00:00:00,South Africa,South Africa,ZA,636.81,697.11,16.66,12.54,eskom.co.za
+2023-02-24 00:00:00,South Africa,South Africa,ZA,630.08,682.92,19.69,15.67,eskom.co.za
+2023-02-25 00:00:00,South Africa,South Africa,ZA,619.41,670.44,22.08,17.94,eskom.co.za
+2023-02-26 00:00:00,South Africa,South Africa,ZA,619.09,670.79,20.92,16.73,eskom.co.za
+2023-02-27 00:00:00,South Africa,South Africa,ZA,627.46,684.40,18.70,14.67,eskom.co.za
+2023-02-28 00:00:00,South Africa,South Africa,ZA,626.44,689.46,17.62,13.70,eskom.co.za
+2023-03-01 00:00:00,South Africa,South Africa,ZA,636.15,690.90,18.14,14.13,eskom.co.za
+2023-03-02 00:00:00,South Africa,South Africa,ZA,639.46,697.38,17.39,13.48,eskom.co.za
+2023-03-03 00:00:00,South Africa,South Africa,ZA,651.16,707.22,15.61,11.63,eskom.co.za
+2023-03-04 00:00:00,South Africa,South Africa,ZA,652.47,708.54,15.68,11.61,eskom.co.za
+2023-03-05 00:00:00,South Africa,South Africa,ZA,627.60,683.57,18.91,14.88,eskom.co.za
+2023-03-06 00:00:00,South Africa,South Africa,ZA,618.79,677.81,18.94,14.92,eskom.co.za
+2023-03-07 00:00:00,South Africa,South Africa,ZA,621.30,676.21,20.00,16.01,eskom.co.za
+2023-03-08 00:00:00,South Africa,South Africa,ZA,620.77,674.48,19.62,15.63,eskom.co.za
+2023-03-09 00:00:00,South Africa,South Africa,ZA,641.65,701.49,15.09,11.11,eskom.co.za
+2023-03-10 00:00:00,South Africa,South Africa,ZA,637.41,697.82,16.08,12.26,eskom.co.za
+2023-03-11 00:00:00,South Africa,South Africa,ZA,626.77,683.60,18.96,15.13,eskom.co.za
+2023-03-12 00:00:00,South Africa,South Africa,ZA,630.53,687.07,19.37,15.53,eskom.co.za
+2023-03-13 00:00:00,South Africa,South Africa,ZA,644.16,697.67,17.48,13.56,eskom.co.za
+2023-03-14 00:00:00,South Africa,South Africa,ZA,659.63,714.67,15.19,11.27,eskom.co.za
+2023-03-15 00:00:00,South Africa,South Africa,ZA,656.74,709.87,16.26,12.51,eskom.co.za
+2023-03-16 00:00:00,South Africa,South Africa,ZA,642.10,694.86,17.72,13.89,eskom.co.za
+2023-03-17 00:00:00,South Africa,South Africa,ZA,639.64,692.41,17.51,13.66,eskom.co.za
+2023-03-18 00:00:00,South Africa,South Africa,ZA,648.88,702.28,16.49,12.51,eskom.co.za
+2023-03-19 00:00:00,South Africa,South Africa,ZA,658.05,712.50,15.47,11.47,eskom.co.za
+2023-03-20 00:00:00,South Africa,South Africa,ZA,633.23,686.42,19.01,15.06,eskom.co.za
+2023-03-21 00:00:00,South Africa,South Africa,ZA,651.22,706.66,16.43,12.53,eskom.co.za
+2023-03-22 00:00:00,South Africa,South Africa,ZA,653.73,712.03,15.18,11.28,eskom.co.za
+2023-03-23 00:00:00,South Africa,South Africa,ZA,637.54,690.68,18.56,14.69,eskom.co.za
+2023-03-24 00:00:00,South Africa,South Africa,ZA,644.93,698.15,17.45,13.56,eskom.co.za
+2023-03-25 00:00:00,South Africa,South Africa,ZA,630.92,684.43,19.21,15.28,eskom.co.za
+2023-03-26 00:00:00,South Africa,South Africa,ZA,630.13,686.80,18.20,14.14,eskom.co.za
+2023-03-27 00:00:00,South Africa,South Africa,ZA,634.14,688.17,18.34,14.43,eskom.co.za
+2023-03-28 00:00:00,South Africa,South Africa,ZA,636.07,693.48,17.02,13.19,eskom.co.za
+2023-03-29 00:00:00,South Africa,South Africa,ZA,633.15,694.44,16.46,12.55,eskom.co.za; Electricity Maps Estimation
+2023-03-30 00:00:00,South Africa,South Africa,ZA,633.47,694.84,16.64,12.69,eskom.co.za
+2023-03-31 00:00:00,South Africa,South Africa,ZA,644.87,708.40,14.89,10.87,eskom.co.za; Electricity Maps Estimation
+2023-04-01 00:00:00,South Africa,South Africa,ZA,651.22,709.04,15.71,11.54,eskom.co.za
+2023-04-02 00:00:00,South Africa,South Africa,ZA,656.67,710.20,17.59,13.52,eskom.co.za
+2023-04-03 00:00:00,South Africa,South Africa,ZA,631.59,688.56,17.67,13.60,eskom.co.za
+2023-04-04 00:00:00,South Africa,South Africa,ZA,658.06,717.65,14.16,9.98,eskom.co.za
+2023-04-05 00:00:00,South Africa,South Africa,ZA,648.35,711.90,14.20,10.06,eskom.co.za; Electricity Maps Estimation
+2023-04-06 00:00:00,South Africa,South Africa,ZA,660.62,716.96,14.36,10.19,eskom.co.za
+2023-04-07 00:00:00,South Africa,South Africa,ZA,639.53,691.51,19.03,14.94,eskom.co.za
+2023-04-08 00:00:00,South Africa,South Africa,ZA,648.67,702.28,16.54,12.29,eskom.co.za; Electricity Maps Estimation
+2023-04-09 00:00:00,South Africa,South Africa,ZA,651.53,705.74,16.48,12.24,eskom.co.za; Electricity Maps Estimation
+2023-04-10 00:00:00,South Africa,South Africa,ZA,633.30,685.80,18.93,14.84,eskom.co.za
+2023-04-11 00:00:00,South Africa,South Africa,ZA,650.49,710.37,14.65,10.48,eskom.co.za
+2023-04-12 00:00:00,South Africa,South Africa,ZA,650.97,713.49,14.38,10.21,eskom.co.za
+2023-04-13 00:00:00,South Africa,South Africa,ZA,633.71,696.30,16.77,12.59,eskom.co.za; Electricity Maps Estimation
+2023-04-14 00:00:00,South Africa,South Africa,ZA,619.12,675.39,19.43,15.26,eskom.co.za; Electricity Maps Estimation
+2023-04-15 00:00:00,South Africa,South Africa,ZA,651.40,710.59,15.51,14.66,eskom.co.za; Electricity Maps Estimation
+2023-04-16 00:00:00,South Africa,South Africa,ZA,668.71,735.14,14.81,13.56,eskom.co.za; Electricity Maps Estimation
+2023-04-17 00:00:00,South Africa,South Africa,ZA,653.54,712.25,14.64,11.90,eskom.co.za
+2023-04-18 00:00:00,South Africa,South Africa,ZA,673.84,731.65,12.53,9.87,eskom.co.za
+2023-04-19 00:00:00,South Africa,South Africa,ZA,643.04,698.80,16.87,13.55,eskom.co.za
+2023-04-20 00:00:00,South Africa,South Africa,ZA,610.49,667.78,19.67,15.59,eskom.co.za
+2023-04-21 00:00:00,South Africa,South Africa,ZA,644.34,709.24,14.53,10.40,eskom.co.za
+2023-04-22 00:00:00,South Africa,South Africa,ZA,640.48,701.74,16.32,12.41,eskom.co.za
+2023-04-23 00:00:00,South Africa,South Africa,ZA,653.70,709.63,16.67,12.72,eskom.co.za
+2023-04-24 00:00:00,South Africa,South Africa,ZA,649.54,713.90,14.03,10.00,eskom.co.za
+2023-04-25 00:00:00,South Africa,South Africa,ZA,656.37,722.30,12.81,8.76,eskom.co.za
+2023-04-26 00:00:00,South Africa,South Africa,ZA,644.51,712.59,13.82,9.86,eskom.co.za; Electricity Maps Estimation
+2023-04-27 00:00:00,South Africa,South Africa,ZA,625.71,681.61,18.83,14.82,eskom.co.za
+2023-04-28 00:00:00,South Africa,South Africa,ZA,657.71,715.89,14.07,9.96,eskom.co.za
+2023-04-29 00:00:00,South Africa,South Africa,ZA,652.33,707.80,15.84,11.67,eskom.co.za
+2023-04-30 00:00:00,South Africa,South Africa,ZA,659.05,714.13,14.71,10.52,eskom.co.za
+2023-05-01 00:00:00,South Africa,South Africa,ZA,663.48,724.86,13.46,9.45,eskom.co.za
+2023-05-02 00:00:00,South Africa,South Africa,ZA,666.70,730.37,12.05,7.90,eskom.co.za
+2023-05-03 00:00:00,South Africa,South Africa,ZA,666.35,730.94,12.10,7.91,eskom.co.za
+2023-05-04 00:00:00,South Africa,South Africa,ZA,667.56,728.62,12.90,8.76,eskom.co.za
+2023-05-05 00:00:00,South Africa,South Africa,ZA,673.69,739.15,10.07,5.82,eskom.co.za
+2023-05-06 00:00:00,South Africa,South Africa,ZA,646.84,716.09,13.61,9.45,eskom.co.za
+2023-05-07 00:00:00,South Africa,South Africa,ZA,667.94,730.50,13.28,8.93,eskom.co.za
+2023-05-08 00:00:00,South Africa,South Africa,ZA,659.60,730.38,11.46,7.23,eskom.co.za; Electricity Maps Estimation
+2023-05-09 00:00:00,South Africa,South Africa,ZA,667.66,733.45,11.87,7.65,eskom.co.za
+2023-05-10 00:00:00,South Africa,South Africa,ZA,648.58,708.80,15.27,11.10,eskom.co.za
+2023-05-11 00:00:00,South Africa,South Africa,ZA,629.26,686.91,17.98,13.90,eskom.co.za
+2023-05-12 00:00:00,South Africa,South Africa,ZA,633.07,687.67,18.02,13.91,eskom.co.za
+2023-05-13 00:00:00,South Africa,South Africa,ZA,635.13,687.18,18.84,14.81,eskom.co.za
+2023-05-14 00:00:00,South Africa,South Africa,ZA,631.74,682.92,19.68,15.61,eskom.co.za
+2023-05-15 00:00:00,South Africa,South Africa,ZA,652.53,717.51,13.45,9.44,eskom.co.za
+2023-05-16 00:00:00,South Africa,South Africa,ZA,667.12,728.92,12.32,8.32,eskom.co.za
+2023-05-17 00:00:00,South Africa,South Africa,ZA,665.22,722.69,13.88,9.91,eskom.co.za
+2023-05-18 00:00:00,South Africa,South Africa,ZA,672.28,729.33,13.18,9.29,eskom.co.za
+2023-05-19 00:00:00,South Africa,South Africa,ZA,675.59,739.16,11.44,7.58,eskom.co.za
+2023-05-20 00:00:00,South Africa,South Africa,ZA,672.16,731.89,12.77,8.80,eskom.co.za
+2023-05-21 00:00:00,South Africa,South Africa,ZA,648.52,706.95,16.05,12.24,eskom.co.za
+2023-05-22 00:00:00,South Africa,South Africa,ZA,661.98,727.60,12.30,8.42,eskom.co.za; Electricity Maps Estimation
+2023-05-23 00:00:00,South Africa,South Africa,ZA,657.69,724.90,12.45,8.60,eskom.co.za
+2023-05-24 00:00:00,South Africa,South Africa,ZA,639.58,702.49,15.81,11.99,eskom.co.za
+2023-05-25 00:00:00,South Africa,South Africa,ZA,633.30,695.14,16.90,13.10,eskom.co.za
+2023-05-26 00:00:00,South Africa,South Africa,ZA,658.50,719.86,13.80,9.93,eskom.co.za
+2023-05-27 00:00:00,South Africa,South Africa,ZA,660.47,719.91,14.60,10.65,eskom.co.za
+2023-05-28 00:00:00,South Africa,South Africa,ZA,659.46,719.49,14.59,10.58,eskom.co.za
+2023-05-29 00:00:00,South Africa,South Africa,ZA,646.81,705.62,15.94,12.00,eskom.co.za
+2023-05-30 00:00:00,South Africa,South Africa,ZA,666.60,733.58,11.85,7.98,eskom.co.za
+2023-05-31 00:00:00,South Africa,South Africa,ZA,686.51,751.19,9.70,5.75,eskom.co.za
+2023-06-01 00:00:00,South Africa,South Africa,ZA,678.19,738.06,12.06,8.17,eskom.co.za
+2023-06-02 00:00:00,South Africa,South Africa,ZA,654.57,706.41,17.77,14.17,eskom.co.za
+2023-06-03 00:00:00,South Africa,South Africa,ZA,639.87,691.65,18.13,14.38,eskom.co.za
+2023-06-04 00:00:00,South Africa,South Africa,ZA,660.33,713.76,16.05,12.27,eskom.co.za
+2023-06-05 00:00:00,South Africa,South Africa,ZA,672.48,727.10,13.63,9.95,eskom.co.za
+2023-06-06 00:00:00,South Africa,South Africa,ZA,655.75,710.37,15.88,12.24,eskom.co.za
+2023-06-07 00:00:00,South Africa,South Africa,ZA,633.72,688.24,18.04,14.37,eskom.co.za
+2023-06-08 00:00:00,South Africa,South Africa,ZA,644.72,697.74,17.41,13.74,eskom.co.za
+2023-06-09 00:00:00,South Africa,South Africa,ZA,660.08,719.33,13.91,10.17,eskom.co.za
+2023-06-10 00:00:00,South Africa,South Africa,ZA,676.44,734.57,12.74,8.85,eskom.co.za
+2023-06-11 00:00:00,South Africa,South Africa,ZA,642.00,693.66,19.15,15.36,eskom.co.za
+2023-06-12 00:00:00,South Africa,South Africa,ZA,627.13,686.41,18.04,14.47,eskom.co.za
+2023-06-13 00:00:00,South Africa,South Africa,ZA,631.16,685.32,18.69,15.16,eskom.co.za
+2023-06-14 00:00:00,South Africa,South Africa,ZA,632.99,687.19,18.55,16.15,eskom.co.za
+2023-06-15 00:00:00,South Africa,South Africa,ZA,644.95,702.60,15.94,13.45,eskom.co.za
+2023-06-16 00:00:00,South Africa,South Africa,ZA,645.44,703.54,16.08,13.49,eskom.co.za
+2023-06-17 00:00:00,South Africa,South Africa,ZA,650.45,704.17,16.99,14.37,eskom.co.za
+2023-06-18 00:00:00,South Africa,South Africa,ZA,666.90,724.91,14.31,10.85,eskom.co.za
+2023-06-19 00:00:00,South Africa,South Africa,ZA,628.87,682.89,19.25,15.64,eskom.co.za
+2023-06-20 00:00:00,South Africa,South Africa,ZA,658.75,714.32,15.29,11.67,eskom.co.za
+2023-06-21 00:00:00,South Africa,South Africa,ZA,665.88,727.53,12.79,9.16,eskom.co.za; Electricity Maps Estimation
+2023-06-22 00:00:00,South Africa,South Africa,ZA,656.94,721.37,13.39,9.79,eskom.co.za; Electricity Maps Estimation
+2023-06-23 00:00:00,South Africa,South Africa,ZA,644.58,702.83,16.26,12.69,eskom.co.za
+2023-06-24 00:00:00,South Africa,South Africa,ZA,660.32,724.77,13.12,9.26,eskom.co.za
+2023-06-25 00:00:00,South Africa,South Africa,ZA,654.47,712.98,15.45,11.57,eskom.co.za
+2023-06-26 00:00:00,South Africa,South Africa,ZA,647.72,706.48,16.09,12.42,eskom.co.za
+2023-06-27 00:00:00,South Africa,South Africa,ZA,643.91,707.62,14.97,11.35,eskom.co.za; Electricity Maps Estimation
+2023-06-28 00:00:00,South Africa,South Africa,ZA,669.71,731.65,12.80,9.17,eskom.co.za; Electricity Maps Estimation
+2023-06-29 00:00:00,South Africa,South Africa,ZA,652.12,707.25,16.36,12.80,eskom.co.za
+2023-06-30 00:00:00,South Africa,South Africa,ZA,659.26,716.96,14.77,11.07,eskom.co.za; Electricity Maps Estimation
+2023-07-01 00:00:00,South Africa,South Africa,ZA,669.68,728.55,13.81,10.02,eskom.co.za
+2023-07-02 00:00:00,South Africa,South Africa,ZA,681.78,738.91,13.27,9.42,eskom.co.za
+2023-07-03 00:00:00,South Africa,South Africa,ZA,665.10,722.12,14.58,10.89,eskom.co.za
+2023-07-04 00:00:00,South Africa,South Africa,ZA,661.13,723.40,13.58,9.86,eskom.co.za; Electricity Maps Estimation
+2023-07-05 00:00:00,South Africa,South Africa,ZA,662.58,728.85,12.39,8.67,eskom.co.za
+2023-07-06 00:00:00,South Africa,South Africa,ZA,638.94,699.65,16.41,12.75,eskom.co.za
+2023-07-07 00:00:00,South Africa,South Africa,ZA,630.79,683.15,19.33,15.60,eskom.co.za
+2023-07-08 00:00:00,South Africa,South Africa,ZA,635.95,686.78,20.02,16.28,eskom.co.za
+2023-07-09 00:00:00,South Africa,South Africa,ZA,648.31,705.90,16.86,13.06,eskom.co.za
+2023-07-10 00:00:00,South Africa,South Africa,ZA,648.01,714.89,14.13,10.42,eskom.co.za; Electricity Maps Estimation
+2023-07-11 00:00:00,South Africa,South Africa,ZA,654.22,723.03,12.91,9.18,eskom.co.za
+2023-07-12 00:00:00,South Africa,South Africa,ZA,659.30,724.16,13.60,9.71,eskom.co.za
+2023-07-13 00:00:00,South Africa,South Africa,ZA,664.19,727.10,13.81,9.92,eskom.co.za; Electricity Maps Estimation
+2023-07-14 00:00:00,South Africa,South Africa,ZA,657.58,711.54,16.34,12.31,eskom.co.za; Electricity Maps Estimation
+2023-07-15 00:00:00,South Africa,South Africa,ZA,658.72,710.20,18.21,14.31,eskom.co.za
+2023-07-16 00:00:00,South Africa,South Africa,ZA,668.73,724.35,15.01,11.10,eskom.co.za
+2023-07-17 00:00:00,South Africa,South Africa,ZA,681.08,736.04,13.44,9.68,eskom.co.za
+2023-07-18 00:00:00,South Africa,South Africa,ZA,649.55,702.56,17.22,13.56,eskom.co.za; Electricity Maps Estimation
+2023-07-19 00:00:00,South Africa,South Africa,ZA,632.55,696.26,16.56,12.81,eskom.co.za; Electricity Maps Estimation
+2023-07-20 00:00:00,South Africa,South Africa,ZA,640.52,696.09,17.86,14.21,eskom.co.za; Electricity Maps Estimation
+2023-07-21 00:00:00,South Africa,South Africa,ZA,648.90,714.43,13.79,10.06,eskom.co.za; Electricity Maps Estimation
+2023-07-22 00:00:00,South Africa,South Africa,ZA,648.34,705.42,16.44,12.60,eskom.co.za
+2023-07-23 00:00:00,South Africa,South Africa,ZA,656.99,722.35,14.64,10.75,eskom.co.za; Electricity Maps Estimation
+2023-07-24 00:00:00,South Africa,South Africa,ZA,663.82,728.36,12.89,8.97,eskom.co.za
+2023-07-25 00:00:00,South Africa,South Africa,ZA,673.44,728.21,14.34,10.62,eskom.co.za; Electricity Maps Estimation
+2023-07-26 00:00:00,South Africa,South Africa,ZA,672.29,729.60,13.85,11.26,eskom.co.za; Electricity Maps Estimation
+2023-07-27 00:00:00,South Africa,South Africa,ZA,684.41,746.63,11.08,8.38,eskom.co.za
+2023-07-28 00:00:00,South Africa,South Africa,ZA,664.13,718.37,15.27,12.55,eskom.co.za
+2023-07-29 00:00:00,South Africa,South Africa,ZA,665.51,719.94,15.98,13.29,eskom.co.za; Electricity Maps Estimation
+2023-07-30 00:00:00,South Africa,South Africa,ZA,640.84,692.05,19.64,16.03,eskom.co.za
+2023-07-31 00:00:00,South Africa,South Africa,ZA,652.89,705.65,16.77,13.01,eskom.co.za
+2023-08-01 00:00:00,South Africa,South Africa,ZA,665.97,722.81,14.43,10.70,eskom.co.za
+2023-08-02 00:00:00,South Africa,South Africa,ZA,661.76,716.84,15.47,11.83,eskom.co.za
+2023-08-03 00:00:00,South Africa,South Africa,ZA,643.35,695.70,18.39,14.82,eskom.co.za
+2023-08-04 00:00:00,South Africa,South Africa,ZA,651.01,710.56,15.29,11.56,eskom.co.za
+2023-08-05 00:00:00,South Africa,South Africa,ZA,662.55,718.47,15.70,11.92,eskom.co.za
+2023-08-06 00:00:00,South Africa,South Africa,ZA,657.90,711.66,17.81,14.06,eskom.co.za
+2023-08-07 00:00:00,South Africa,South Africa,ZA,678.44,736.92,12.35,8.49,eskom.co.za
+2023-08-08 00:00:00,South Africa,South Africa,ZA,657.43,714.60,15.29,11.49,eskom.co.za
+2023-08-09 00:00:00,South Africa,South Africa,ZA,653.35,708.48,16.94,13.20,eskom.co.za
+2023-08-10 00:00:00,South Africa,South Africa,ZA,645.08,700.69,17.11,13.38,eskom.co.za
+2023-08-11 00:00:00,South Africa,South Africa,ZA,645.67,707.11,14.84,10.96,eskom.co.za
+2023-08-12 00:00:00,South Africa,South Africa,ZA,653.80,709.77,16.07,12.03,eskom.co.za
+2023-08-13 00:00:00,South Africa,South Africa,ZA,659.20,720.97,15.36,11.44,eskom.co.za
+2023-08-14 00:00:00,South Africa,South Africa,ZA,659.46,719.24,14.41,10.56,eskom.co.za
+2023-08-15 00:00:00,South Africa,South Africa,ZA,648.12,706.39,16.41,12.57,eskom.co.za
+2023-08-16 00:00:00,South Africa,South Africa,ZA,659.81,715.11,15.48,11.67,eskom.co.za
+2023-08-17 00:00:00,South Africa,South Africa,ZA,646.31,703.26,16.70,12.86,eskom.co.za
+2023-08-18 00:00:00,South Africa,South Africa,ZA,648.89,711.74,14.94,11.02,eskom.co.za
+2023-08-19 00:00:00,South Africa,South Africa,ZA,663.83,720.42,15.14,11.19,eskom.co.za
+2023-08-20 00:00:00,South Africa,South Africa,ZA,657.19,710.43,18.54,14.68,eskom.co.za
+2023-08-21 00:00:00,South Africa,South Africa,ZA,631.04,682.67,19.44,15.54,eskom.co.za
+2023-08-22 00:00:00,South Africa,South Africa,ZA,639.46,693.32,18.15,14.29,eskom.co.za
+2023-08-23 00:00:00,South Africa,South Africa,ZA,643.80,698.49,17.02,13.10,eskom.co.za
+2023-08-24 00:00:00,South Africa,South Africa,ZA,653.26,713.29,14.86,10.93,eskom.co.za
+2023-08-25 00:00:00,South Africa,South Africa,ZA,615.71,668.45,21.81,18.08,eskom.co.za
+2023-08-26 00:00:00,South Africa,South Africa,ZA,641.52,694.28,18.33,14.33,eskom.co.za
+2023-08-27 00:00:00,South Africa,South Africa,ZA,645.47,702.94,17.23,13.27,eskom.co.za
+2023-08-28 00:00:00,South Africa,South Africa,ZA,655.50,714.10,15.15,11.22,eskom.co.za
+2023-08-29 00:00:00,South Africa,South Africa,ZA,633.22,694.30,16.95,12.97,eskom.co.za
+2023-08-30 00:00:00,South Africa,South Africa,ZA,639.27,698.86,16.83,12.90,eskom.co.za
+2023-08-31 00:00:00,South Africa,South Africa,ZA,631.08,682.83,19.83,15.92,eskom.co.za
+2023-09-01 00:00:00,South Africa,South Africa,ZA,660.06,720.44,14.00,9.90,eskom.co.za
+2023-09-02 00:00:00,South Africa,South Africa,ZA,661.93,725.17,13.64,9.41,eskom.co.za
+2023-09-03 00:00:00,South Africa,South Africa,ZA,648.12,713.58,16.02,11.85,eskom.co.za
+2023-09-04 00:00:00,South Africa,South Africa,ZA,649.30,715.81,14.20,10.12,eskom.co.za
+2023-09-05 00:00:00,South Africa,South Africa,ZA,635.68,695.15,17.12,12.96,eskom.co.za
+2023-09-06 00:00:00,South Africa,South Africa,ZA,641.63,698.90,17.81,13.76,eskom.co.za
+2023-09-07 00:00:00,South Africa,South Africa,ZA,653.55,711.05,15.99,11.88,eskom.co.za
+2023-09-08 00:00:00,South Africa,South Africa,ZA,676.06,732.77,12.67,8.43,eskom.co.za
+2023-09-09 00:00:00,South Africa,South Africa,ZA,622.25,672.71,21.16,17.04,eskom.co.za
+2023-09-10 00:00:00,South Africa,South Africa,ZA,622.97,685.12,18.07,14.14,eskom.co.za
+2023-09-11 00:00:00,South Africa,South Africa,ZA,624.29,688.82,17.57,13.57,eskom.co.za; Electricity Maps Estimation
+2023-09-12 00:00:00,South Africa,South Africa,ZA,635.88,701.75,16.32,12.41,eskom.co.za
+2023-09-13 00:00:00,South Africa,South Africa,ZA,629.06,680.64,20.57,16.56,eskom.co.za
+2023-09-14 00:00:00,South Africa,South Africa,ZA,636.72,688.45,19.81,15.83,eskom.co.za
+2023-09-15 00:00:00,South Africa,South Africa,ZA,618.33,667.96,23.00,19.25,eskom.co.za
+2023-09-16 00:00:00,South Africa,South Africa,ZA,621.69,672.73,20.61,16.69,eskom.co.za
+2023-09-17 00:00:00,South Africa,South Africa,ZA,666.83,720.40,15.57,11.66,eskom.co.za
+2023-09-18 00:00:00,South Africa,South Africa,ZA,674.49,728.60,14.31,10.62,eskom.co.za; Electricity Maps Estimation
+2023-09-19 00:00:00,South Africa,South Africa,ZA,663.74,718.11,15.36,11.66,eskom.co.za
+2023-09-20 00:00:00,South Africa,South Africa,ZA,656.11,710.54,15.39,11.53,eskom.co.za
+2023-09-21 00:00:00,South Africa,South Africa,ZA,655.15,709.55,16.08,12.36,eskom.co.za
+2023-09-22 00:00:00,South Africa,South Africa,ZA,668.16,725.50,13.11,9.17,eskom.co.za
+2023-09-23 00:00:00,South Africa,South Africa,ZA,660.41,715.83,15.31,11.45,eskom.co.za
+2023-09-24 00:00:00,South Africa,South Africa,ZA,622.35,679.41,20.85,17.05,eskom.co.za
+2023-09-25 00:00:00,South Africa,South Africa,ZA,628.16,679.10,20.94,17.12,eskom.co.za
+2023-09-26 00:00:00,South Africa,South Africa,ZA,629.82,683.84,18.23,14.46,eskom.co.za
+2023-09-27 00:00:00,South Africa,South Africa,ZA,647.40,708.74,15.01,11.28,eskom.co.za
+2023-09-28 00:00:00,South Africa,South Africa,ZA,669.71,728.36,12.68,8.97,eskom.co.za
+2023-09-29 00:00:00,South Africa,South Africa,ZA,657.18,710.17,16.49,12.79,eskom.co.za
+2023-09-30 00:00:00,South Africa,South Africa,ZA,635.78,687.95,18.54,14.72,eskom.co.za
+2023-10-01 00:00:00,South Africa,South Africa,ZA,652.29,706.43,16.94,13.10,eskom.co.za
+2023-10-02 00:00:00,South Africa,South Africa,ZA,666.28,721.67,14.46,10.72,eskom.co.za
+2023-10-03 00:00:00,South Africa,South Africa,ZA,655.86,709.95,15.72,11.89,eskom.co.za
+2023-10-04 00:00:00,South Africa,South Africa,ZA,663.71,723.18,13.56,9.72,eskom.co.za
+2023-10-05 00:00:00,South Africa,South Africa,ZA,665.93,728.29,12.73,8.99,eskom.co.za
+2023-10-06 00:00:00,South Africa,South Africa,ZA,651.12,709.19,15.29,11.48,eskom.co.za
+2023-10-07 00:00:00,South Africa,South Africa,ZA,656.78,709.93,16.78,13.00,eskom.co.za
+2023-10-08 00:00:00,South Africa,South Africa,ZA,637.02,692.59,18.76,14.99,eskom.co.za
+2023-10-09 00:00:00,South Africa,South Africa,ZA,648.21,703.14,16.87,13.19,eskom.co.za
+2023-10-10 00:00:00,South Africa,South Africa,ZA,661.10,717.50,14.85,11.23,eskom.co.za
+2023-10-11 00:00:00,South Africa,South Africa,ZA,680.66,740.83,11.54,7.85,eskom.co.za
+2023-10-12 00:00:00,South Africa,South Africa,ZA,660.97,714.73,15.15,11.51,eskom.co.za
+2023-10-13 00:00:00,South Africa,South Africa,ZA,656.25,711.22,15.74,12.15,eskom.co.za
+2023-10-14 00:00:00,South Africa,South Africa,ZA,645.38,697.25,18.94,15.39,eskom.co.za
+2023-10-15 00:00:00,South Africa,South Africa,ZA,646.36,699.17,18.07,14.33,eskom.co.za
+2023-10-16 00:00:00,South Africa,South Africa,ZA,627.98,680.60,19.80,16.25,eskom.co.za
+2023-10-17 00:00:00,South Africa,South Africa,ZA,665.17,719.39,14.98,11.35,eskom.co.za
+2023-10-18 00:00:00,South Africa,South Africa,ZA,663.24,717.94,15.69,12.14,eskom.co.za
+2023-10-19 00:00:00,South Africa,South Africa,ZA,655.23,709.59,15.71,12.11,eskom.co.za
+2023-10-20 00:00:00,South Africa,South Africa,ZA,661.52,716.02,14.87,11.28,eskom.co.za
+2023-10-21 00:00:00,South Africa,South Africa,ZA,634.41,686.05,19.22,15.53,eskom.co.za
+2023-10-22 00:00:00,South Africa,South Africa,ZA,638.25,690.15,19.31,15.54,eskom.co.za
+2023-10-23 00:00:00,South Africa,South Africa,ZA,651.64,708.05,15.61,12.01,eskom.co.za
+2023-10-24 00:00:00,South Africa,South Africa,ZA,646.17,708.18,14.99,11.40,eskom.co.za; Electricity Maps Estimation
+2023-10-25 00:00:00,South Africa,South Africa,ZA,658.43,724.21,12.92,9.30,eskom.co.za; Electricity Maps Estimation
+2023-10-26 00:00:00,South Africa,South Africa,ZA,643.28,709.20,14.75,11.12,eskom.co.za
+2023-10-27 00:00:00,South Africa,South Africa,ZA,644.71,706.11,15.45,11.83,eskom.co.za
+2023-10-28 00:00:00,South Africa,South Africa,ZA,614.60,672.32,20.69,17.03,eskom.co.za
+2023-10-29 00:00:00,South Africa,South Africa,ZA,609.99,665.32,22.39,18.68,eskom.co.za
+2023-10-30 00:00:00,South Africa,South Africa,ZA,622.34,678.96,19.54,15.97,eskom.co.za
+2023-10-31 00:00:00,South Africa,South Africa,ZA,637.43,703.29,15.58,12.00,eskom.co.za
+2023-11-01 00:00:00,South Africa,South Africa,ZA,649.49,707.37,16.03,12.33,eskom.co.za
+2023-11-02 00:00:00,South Africa,South Africa,ZA,647.98,708.62,15.56,11.77,eskom.co.za
+2023-11-03 00:00:00,South Africa,South Africa,ZA,619.82,683.63,17.72,13.93,eskom.co.za
+2023-11-04 00:00:00,South Africa,South Africa,ZA,636.27,698.00,17.05,13.26,eskom.co.za
+2023-11-05 00:00:00,South Africa,South Africa,ZA,655.75,712.31,15.75,11.81,eskom.co.za
+2023-11-06 00:00:00,South Africa,South Africa,ZA,654.33,712.22,14.79,11.05,eskom.co.za
+2023-11-07 00:00:00,South Africa,South Africa,ZA,649.60,710.11,15.01,11.48,eskom.co.za
+2023-11-08 00:00:00,South Africa,South Africa,ZA,662.91,722.23,13.65,9.95,eskom.co.za
+2023-11-09 00:00:00,South Africa,South Africa,ZA,662.56,720.79,13.97,10.28,eskom.co.za
+2023-11-10 00:00:00,South Africa,South Africa,ZA,651.68,710.44,15.02,11.34,eskom.co.za
+2023-11-11 00:00:00,South Africa,South Africa,ZA,627.13,683.52,18.76,15.03,eskom.co.za
+2023-11-12 00:00:00,South Africa,South Africa,ZA,627.59,692.25,17.28,13.52,eskom.co.za
+2023-11-13 00:00:00,South Africa,South Africa,ZA,633.70,691.77,17.56,13.85,eskom.co.za
+2023-11-14 00:00:00,South Africa,South Africa,ZA,630.60,692.56,17.04,13.55,eskom.co.za
+2023-11-15 00:00:00,South Africa,South Africa,ZA,643.55,700.49,16.32,12.72,eskom.co.za
+2023-11-16 00:00:00,South Africa,South Africa,ZA,647.66,713.11,14.03,10.50,eskom.co.za
+2023-11-17 00:00:00,South Africa,South Africa,ZA,646.96,708.00,14.20,10.60,eskom.co.za
+2023-11-18 00:00:00,South Africa,South Africa,ZA,641.86,706.60,14.43,10.60,eskom.co.za
+2023-11-19 00:00:00,South Africa,South Africa,ZA,632.99,697.39,17.79,13.69,eskom.co.za
+2023-11-20 00:00:00,South Africa,South Africa,ZA,625.62,685.53,18.17,14.01,eskom.co.za
+2023-11-21 00:00:00,South Africa,South Africa,ZA,624.51,689.05,16.52,12.29,eskom.co.za
+2023-11-22 00:00:00,South Africa,South Africa,ZA,627.38,692.23,16.78,12.04,eskom.co.za
+2023-11-23 00:00:00,South Africa,South Africa,ZA,637.79,702.20,14.91,9.66,eskom.co.za; Electricity Maps Estimation
+2023-11-24 00:00:00,South Africa,South Africa,ZA,643.17,707.46,14.43,9.03,eskom.co.za
+2023-11-25 00:00:00,South Africa,South Africa,ZA,648.51,705.38,18.63,12.69,eskom.co.za
+2023-11-26 00:00:00,South Africa,South Africa,ZA,645.69,698.90,17.81,11.36,eskom.co.za
+2023-11-27 00:00:00,South Africa,South Africa,ZA,622.53,687.25,16.53,10.59,eskom.co.za; Electricity Maps Estimation
+2023-11-28 00:00:00,South Africa,South Africa,ZA,617.57,681.15,17.61,12.73,eskom.co.za
+2023-11-29 00:00:00,South Africa,South Africa,ZA,621.88,674.27,21.23,15.66,eskom.co.za
+2023-11-30 00:00:00,South Africa,South Africa,ZA,629.62,681.22,20.05,13.70,eskom.co.za
+2023-12-01 00:00:00,South Africa,South Africa,ZA,621.30,673.29,19.20,12.38,eskom.co.za; Electricity Maps Estimation
+2023-12-02 00:00:00,South Africa,South Africa,ZA,644.67,701.13,16.33,9.18,eskom.co.za
+2023-12-03 00:00:00,South Africa,South Africa,ZA,640.10,690.94,20.41,13.49,eskom.co.za
+2023-12-04 00:00:00,South Africa,South Africa,ZA,626.60,678.05,19.91,12.77,eskom.co.za
+2023-12-05 00:00:00,South Africa,South Africa,ZA,619.56,670.81,21.02,14.03,eskom.co.za
+2023-12-06 00:00:00,South Africa,South Africa,ZA,607.97,658.78,22.25,15.19,eskom.co.za
+2023-12-07 00:00:00,South Africa,South Africa,ZA,630.84,684.86,18.37,10.98,eskom.co.za
+2023-12-08 00:00:00,South Africa,South Africa,ZA,617.71,668.69,21.40,14.30,eskom.co.za
+2023-12-09 00:00:00,South Africa,South Africa,ZA,621.30,672.81,20.18,12.97,eskom.co.za
+2023-12-10 00:00:00,South Africa,South Africa,ZA,630.88,682.88,18.83,11.76,eskom.co.za
+2023-12-11 00:00:00,South Africa,South Africa,ZA,674.99,729.78,12.95,9.28,eskom.co.za
+2023-12-12 00:00:00,South Africa,South Africa,ZA,645.13,698.07,17.30,13.65,eskom.co.za
+2023-12-13 00:00:00,South Africa,South Africa,ZA,641.75,698.96,15.89,12.22,eskom.co.za
+2023-12-14 00:00:00,South Africa,South Africa,ZA,631.76,685.80,17.93,14.28,eskom.co.za
+2023-12-15 00:00:00,South Africa,South Africa,ZA,645.51,702.85,16.19,12.48,eskom.co.za
+2023-12-16 00:00:00,South Africa,South Africa,ZA,661.80,717.31,16.20,12.60,eskom.co.za
+2023-12-17 00:00:00,South Africa,South Africa,ZA,650.94,705.01,17.13,13.41,eskom.co.za; Electricity Maps Estimation
+2023-12-18 00:00:00,South Africa,South Africa,ZA,657.34,710.91,15.62,11.93,eskom.co.za
+2023-12-19 00:00:00,South Africa,South Africa,ZA,656.14,709.91,15.48,11.58,eskom.co.za
+2023-12-20 00:00:00,South Africa,South Africa,ZA,652.53,706.72,15.10,11.10,eskom.co.za
+2023-12-21 00:00:00,South Africa,South Africa,ZA,625.81,690.93,16.46,12.47,eskom.co.za
+2023-12-22 00:00:00,South Africa,South Africa,ZA,625.80,681.14,19.80,15.84,eskom.co.za
+2023-12-23 00:00:00,South Africa,South Africa,ZA,634.86,686.87,19.01,14.71,eskom.co.za; Electricity Maps Estimation
+2023-12-24 00:00:00,South Africa,South Africa,ZA,659.87,712.60,16.39,12.04,eskom.co.za
+2023-12-25 00:00:00,South Africa,South Africa,ZA,631.24,682.65,19.89,15.39,eskom.co.za
+2023-12-26 00:00:00,South Africa,South Africa,ZA,608.03,657.25,23.95,19.44,eskom.co.za
+2023-12-27 00:00:00,South Africa,South Africa,ZA,615.74,666.86,21.03,16.63,eskom.co.za
+2023-12-28 00:00:00,South Africa,South Africa,ZA,625.16,680.55,19.18,14.68,eskom.co.za
+2023-12-29 00:00:00,South Africa,South Africa,ZA,651.51,713.00,15.06,10.75,eskom.co.za
+2023-12-30 00:00:00,South Africa,South Africa,ZA,672.17,729.94,13.35,10.78,eskom.co.za; Electricity Maps Estimation
+2023-12-31 00:00:00,South Africa,South Africa,ZA,625.11,681.55,19.67,15.42,eskom.co.za
