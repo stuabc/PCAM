@@ -21,6 +21,6 @@
 | MPS | Carbon emission from Material used per die Size | g/cm² | Industrial reports |
 | BD | Bit density | GB/cm² | Industrial reports  |
 | EPG | Electricity consumed per GB | kWh/GB | LCA reports  |
-| Die size | Include popular 51 GPUs and 50 CPUs | mm² | Industrial reports  |
-| Process nodes | Include popular 51 GPUs and 50 CPUs | nm | Industrial reports  |
+| Die size | Include popular GPUs and CPUs | mm² | Industrial reports  |
+| Process nodes | Include popular GPUs and CPUs | nm | Industrial reports  |
 | Defect density | Defect density trend across time | % | Industrial reports  |
