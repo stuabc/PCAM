@@ -22,5 +22,4 @@ PCAM is a Probabilistic Carbon Accounting Model for large AI models that enable 
 | EPG | Electricity consumed per GB | kWh/GB | [LCA reports](https://www.seagate.com/gb/en/esg/planet/product-sustainability/)   |
 | Die size | Include popular GPUs and CPUs | mm² | [Industrial reports](https://www.techpowerup.com/gpu-specs/)  |
 | Process nodes | Include popular GPUs and CPUs | nm | [Industrial reports](https://www.techpowerup.com/gpu-specs/) |
-| Defect density | Defect density trend across time | % | [Industrial reports](https://www.anandtech.
-com/show/16028)  |
+| Defect density | Defect density trend across time | % | [Industrial reports](https://www.anandtech.com/show/16028)  |
