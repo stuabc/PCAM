@@ -2,9 +2,9 @@
 
 PCAM is a Probabilistic Carbon Accounting Model for large AI models that enable probabilistic carbon footprint modeling, including both embodied and operational carbon. 
 
-PCAM is an equation-based accounting model; you can easily calculate the probabilistic or deterministic carbon footprint accounting results using the following dataset for parameters in PCAM.
+PCAM is an equation-based accounting model that allows you to easily calculate probabilistic or deterministic carbon footprint accounting results using the dataset we collected as parameters in PCAM.
 
-Note that PCAM is an accounting model, not a forecasting model; it does not predict the electricity consumption of an AI model; the operating power and duration of the AI system should be recorded as input to PCAM.
+Note that PCAM is an accounting model, not a forecasting model; it does not predict the electricity consumption of an AI model. The operating power and duration of the AI system should be recorded as input to PCAM.
 
 Read more in our [NeurIPS 2025 paper](https://openreview.net/pdf?id=9QyNYxKeKr). 
 
